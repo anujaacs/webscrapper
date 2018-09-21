@@ -1,0 +1,6139 @@
+[
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/ncr/connaught-place-delhi-restaurants",
+        "lname": "Connaught Place",
+        "lid": "C1L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/ncr/sector-29-gurgaon-restaurants",
+        "lname": "Sector 29, Gurgaon",
+        "lid": "C1L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/ncr/sector-18-noida-restaurants",
+        "lname": "Sector 18, Noida",
+        "lid": "C1L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/ncr/rajouri-garden-delhi-restaurants",
+        "lname": "Rajouri Garden",
+        "lid": "C1L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/ncr/saket-delhi-restaurants",
+        "lname": "Saket",
+        "lid": "C1L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/ncr/dlf-cyber-city-gurgaon-restaurants",
+        "lname": "DLF Cyber City",
+        "lid": "C1L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/ncr/golf-course-road-gurgaon-restaurants",
+        "lname": "Golf Course Road",
+        "lid": "C1L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/ncr/dlf-phase-4-gurgaon-restaurants",
+        "lname": "DLF Phase 4",
+        "lid": "C1L8"
+      },
+      {
+        "lurl": "https://www.zomato.com/ncr/delhi-university-gtb-nagar-delhi-restaurants",
+        "lname": "Delhi University-GTB Nagar",
+        "lid": "C1L9"
+      },
+      {
+        "lurl": "https://www.zomato.com/ncr/indirapuram-restaurants",
+        "lname": "Indirapuram",
+        "lid": "C1L10"
+      },
+      {
+        "lurl": "https://www.zomato.com/ncr/vasant-kunj-delhi-restaurants",
+        "lname": "Vasant Kunj",
+        "lid": "C1L11"
+      },
+      {
+        "lurl": "https://www.zomato.com/ncr/greater-kailash-gk-1-delhi-restaurants",
+        "lname": "Greater Kailash 1 (GK1)",
+        "lid": "C1L12"
+      },
+      {
+        "lurl": "https://www.zomato.com/ncr/chanakyapuri-delhi-restaurants",
+        "lname": "Chanakyapuri",
+        "lid": "C1L13"
+      },
+      {
+        "lurl": "https://www.zomato.com/ncr/rohini-delhi-restaurants",
+        "lname": "Rohini",
+        "lid": "C1L14"
+      },
+      {
+        "lurl": "https://www.zomato.com/ncr/janpath-delhi-restaurants",
+        "lname": "Janpath",
+        "lid": "C1L15"
+      },
+      {
+        "lurl": "https://www.zomato.com/ncr/hauz-khas-village-delhi-restaurants",
+        "lname": "Hauz Khas Village",
+        "lid": "C1L16"
+      },
+      {
+        "lurl": "https://www.zomato.com/ncr/sector-38-noida-restaurants",
+        "lname": "Sector 38, Noida",
+        "lid": "C1L17"
+      },
+      {
+        "lurl": "https://www.zomato.com/ncr/janakpuri-delhi-restaurants",
+        "lname": "Janakpuri",
+        "lid": "C1L18"
+      },
+      {
+        "lurl": "https://www.zomato.com/ncr/sector-50-gurgaon-restaurants",
+        "lname": "Sector 50, Gurgaon",
+        "lid": "C1L19"
+      },
+      {
+        "lurl": "https://www.zomato.com/ncr/mg-road-gurgaon-restaurants",
+        "lname": "MG Road, Gurgaon",
+        "lid": "C1L20"
+      },
+      {
+        "lurl": "https://www.zomato.com/ncr/dlf-phase-3-gurgaon-restaurants",
+        "lname": "DLF Phase 3",
+        "lid": "C1L21"
+      },
+      {
+        "lurl": "https://www.zomato.com/ncr/punjabi-bagh-delhi-restaurants",
+        "lname": "Punjabi Bagh",
+        "lid": "C1L22"
+      },
+      {
+        "lurl": "https://www.zomato.com/ncr/netaji-subhash-place-delhi-restaurants",
+        "lname": "Netaji Subhash Place",
+        "lid": "C1L23"
+      },
+      {
+        "lurl": "https://www.zomato.com/ncr/malviya-nagar-delhi-restaurants",
+        "lname": "Malviya Nagar",
+        "lid": "C1L24"
+      },
+      {
+        "lurl": "https://www.zomato.com/ncr/khan-market-delhi-restaurants",
+        "lname": "Khan Market",
+        "lid": "C1L25"
+      },
+      {
+        "lurl": "https://www.zomato.com/ncr/karol-bagh-delhi-restaurants",
+        "lname": "Karol Bagh",
+        "lid": "C1L26"
+      },
+      {
+        "lurl": "https://www.zomato.com/ncr/nehru-place-delhi-restaurants",
+        "lname": "Nehru Place",
+        "lid": "C1L27"
+      },
+      {
+        "lurl": "https://www.zomato.com/ncr/sohna-road-gurgaon-restaurants",
+        "lname": "Sohna Road",
+        "lid": "C1L28"
+      },
+      {
+        "lurl": "https://www.zomato.com/ncr/greater-kailash-gk-2-delhi-restaurants",
+        "lname": "Greater Kailash 2 (GK2)",
+        "lid": "C1L29"
+      },
+      {
+        "lurl": "https://www.zomato.com/ncr/pitampura-delhi-restaurants",
+        "lname": "Pitampura",
+        "lid": "C1L30"
+      }
+    ],
+    "cityName": "Delhi NCR",
+    "cityUrl": "https://www.zomato.com/ncr",
+    "cityId": "C1"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/kolkata/park-street-area-restaurants",
+        "lname": "Park Street Area",
+        "lid": "C2L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/kolkata/sector-5-salt-lake-restaurants",
+        "lname": "Sector 5, Salt Lake",
+        "lid": "C2L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/kolkata/sector-1-salt-lake-restaurants",
+        "lname": "Sector 1, Salt Lake",
+        "lid": "C2L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/kolkata/ballygunge-restaurants",
+        "lname": "Ballygunge",
+        "lid": "C2L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/kolkata/southern-avenue-restaurants",
+        "lname": "Southern Avenue",
+        "lid": "C2L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/kolkata/new-town-restaurants",
+        "lname": "New Town",
+        "lid": "C2L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/kolkata/camac-street-area-restaurants",
+        "lname": "Camac Street Area",
+        "lid": "C2L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/kolkata/chinar-park-restaurants",
+        "lname": "Chinar Park",
+        "lid": "C2L8"
+      },
+      {
+        "lurl": "https://www.zomato.com/kolkata/elgin-restaurants",
+        "lname": "Elgin",
+        "lid": "C2L9"
+      },
+      {
+        "lurl": "https://www.zomato.com/kolkata/kasba-restaurants",
+        "lname": "Kasba",
+        "lid": "C2L10"
+      },
+      {
+        "lurl": "https://www.zomato.com/kolkata/science-city-area-restaurants",
+        "lname": "Science City Area",
+        "lid": "C2L11"
+      },
+      {
+        "lurl": "https://www.zomato.com/kolkata/kankurgachi-restaurants",
+        "lname": "Kankurgachi",
+        "lid": "C2L12"
+      },
+      {
+        "lurl": "https://www.zomato.com/kolkata/new-market-area-restaurants",
+        "lname": "New Market Area",
+        "lid": "C2L13"
+      },
+      {
+        "lurl": "https://www.zomato.com/kolkata/park-circus-area-restaurants",
+        "lname": "Park Circus Area",
+        "lid": "C2L14"
+      },
+      {
+        "lurl": "https://www.zomato.com/kolkata/desapriya-park-restaurants",
+        "lname": "Desapriya Park",
+        "lid": "C2L15"
+      },
+      {
+        "lurl": "https://www.zomato.com/kolkata/golpark-restaurants",
+        "lname": "Golpark",
+        "lid": "C2L16"
+      },
+      {
+        "lurl": "https://www.zomato.com/kolkata/bhawanipur-restaurants",
+        "lname": "Bhawanipur",
+        "lid": "C2L17"
+      },
+      {
+        "lurl": "https://www.zomato.com/kolkata/sector-3-salt-lake-restaurants",
+        "lname": "Sector 3, Salt Lake",
+        "lid": "C2L18"
+      },
+      {
+        "lurl": "https://www.zomato.com/kolkata/hindustan-park-restaurants",
+        "lname": "Hindustan Park",
+        "lid": "C2L19"
+      },
+      {
+        "lurl": "https://www.zomato.com/kolkata/prince-anwar-shah-road-restaurants",
+        "lname": "Prince Anwar Shah Road",
+        "lid": "C2L20"
+      },
+      {
+        "lurl": "https://www.zomato.com/kolkata/gariahat-restaurants",
+        "lname": "Gariahat",
+        "lid": "C2L21"
+      },
+      {
+        "lurl": "https://www.zomato.com/kolkata/behala-restaurants",
+        "lname": "Behala",
+        "lid": "C2L22"
+      },
+      {
+        "lurl": "https://www.zomato.com/kolkata/esplanade-restaurants",
+        "lname": "Esplanade",
+        "lid": "C2L23"
+      },
+      {
+        "lurl": "https://www.zomato.com/kolkata/theatre-road-restaurants",
+        "lname": "Theatre Road",
+        "lid": "C2L24"
+      },
+      {
+        "lurl": "https://www.zomato.com/kolkata/jadavpur-restaurants",
+        "lname": "Jadavpur",
+        "lid": "C2L25"
+      },
+      {
+        "lurl": "https://www.zomato.com/kolkata/hatibagan-restaurants",
+        "lname": "Hatibagan",
+        "lid": "C2L26"
+      },
+      {
+        "lurl": "https://www.zomato.com/kolkata/tollygunge-restaurants",
+        "lname": "Tollygunge",
+        "lid": "C2L27"
+      },
+      {
+        "lurl": "https://www.zomato.com/kolkata/nagerbazar-restaurants",
+        "lname": "Nagerbazar",
+        "lid": "C2L28"
+      },
+      {
+        "lurl": "https://www.zomato.com/kolkata/lake-market-area-restaurants",
+        "lname": "Lake Market Area",
+        "lid": "C2L29"
+      },
+      {
+        "lurl": "https://www.zomato.com/kolkata/tangra-restaurants",
+        "lname": "Tangra",
+        "lid": "C2L30"
+      }
+    ],
+    "cityName": "Kolkata",
+    "cityUrl": "https://www.zomato.com/kolkata",
+    "cityId": "C2"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/mumbai/lower-parel-restaurants",
+        "lname": "Lower Parel",
+        "lid": "C3L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/mumbai/powai-restaurants",
+        "lname": "Powai",
+        "lid": "C3L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/mumbai/malad-west-restaurants",
+        "lname": "Malad West",
+        "lid": "C3L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/mumbai/borivali-west-restaurants",
+        "lname": "Borivali West",
+        "lid": "C3L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/mumbai/bandra-kurla-complex-restaurants",
+        "lname": "Bandra Kurla Complex",
+        "lid": "C3L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/mumbai/vashi-restaurants",
+        "lname": "Vashi",
+        "lid": "C3L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/mumbai/fort-restaurants",
+        "lname": "Fort",
+        "lid": "C3L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/mumbai/juhu-restaurants",
+        "lname": "Juhu",
+        "lid": "C3L8"
+      },
+      {
+        "lurl": "https://www.zomato.com/mumbai/andheri-lokhandwala-andheri-west-restaurants",
+        "lname": "Andheri Lokhandwala, Andheri West",
+        "lid": "C3L9"
+      },
+      {
+        "lurl": "https://www.zomato.com/mumbai/colaba-restaurants",
+        "lname": "Colaba",
+        "lid": "C3L10"
+      },
+      {
+        "lurl": "https://www.zomato.com/mumbai/linking-road-bandra-west-restaurants",
+        "lname": "Linking Road, Bandra West",
+        "lid": "C3L11"
+      },
+      {
+        "lurl": "https://www.zomato.com/mumbai/khar-restaurants",
+        "lname": "Khar",
+        "lid": "C3L12"
+      },
+      {
+        "lurl": "https://www.zomato.com/mumbai/pali-hill-bandra-west-restaurants",
+        "lname": "Pali Hill, Bandra West",
+        "lid": "C3L13"
+      },
+      {
+        "lurl": "https://www.zomato.com/mumbai/chembur-restaurants",
+        "lname": "Chembur",
+        "lid": "C3L14"
+      },
+      {
+        "lurl": "https://www.zomato.com/mumbai/marol-restaurants",
+        "lname": "Marol",
+        "lid": "C3L15"
+      },
+      {
+        "lurl": "https://www.zomato.com/mumbai/veera-desai-area-restaurants",
+        "lname": "Veera Desai Area",
+        "lid": "C3L16"
+      },
+      {
+        "lurl": "https://www.zomato.com/mumbai/goregaon-east-restaurants",
+        "lname": "Goregaon East",
+        "lid": "C3L17"
+      },
+      {
+        "lurl": "https://www.zomato.com/mumbai/mira-road-restaurants",
+        "lname": "Mira Road",
+        "lid": "C3L18"
+      },
+      {
+        "lurl": "https://www.zomato.com/mumbai/panch-pakhadi-thane-west-restaurants",
+        "lname": "Panch Pakhadi, Thane West",
+        "lid": "C3L19"
+      },
+      {
+        "lurl": "https://www.zomato.com/mumbai/worli-restaurants",
+        "lname": "Worli",
+        "lid": "C3L20"
+      },
+      {
+        "lurl": "https://www.zomato.com/mumbai/sakinaka-restaurants",
+        "lname": "Sakinaka",
+        "lid": "C3L21"
+      },
+      {
+        "lurl": "https://www.zomato.com/mumbai/mulund-west-restaurants",
+        "lname": "Mulund West",
+        "lid": "C3L22"
+      },
+      {
+        "lurl": "https://www.zomato.com/mumbai/chakala-restaurants",
+        "lname": "Chakala",
+        "lid": "C3L23"
+      },
+      {
+        "lurl": "https://www.zomato.com/mumbai/hill-road-bandra-west-restaurants",
+        "lname": "Hill Road, Bandra West",
+        "lid": "C3L24"
+      },
+      {
+        "lurl": "https://www.zomato.com/mumbai/oshiwara-andheri-west-restaurants",
+        "lname": "Oshiwara, Andheri West",
+        "lid": "C3L25"
+      },
+      {
+        "lurl": "https://www.zomato.com/mumbai/mahakali-restaurants",
+        "lname": "Mahakali",
+        "lid": "C3L26"
+      },
+      {
+        "lurl": "https://www.zomato.com/mumbai/kharghar-restaurants",
+        "lname": "Kharghar",
+        "lid": "C3L27"
+      },
+      {
+        "lurl": "https://www.zomato.com/mumbai/kandivali-west-restaurants",
+        "lname": "Kandivali West",
+        "lid": "C3L28"
+      },
+      {
+        "lurl": "https://www.zomato.com/mumbai/churchgate-restaurants",
+        "lname": "Churchgate",
+        "lid": "C3L29"
+      },
+      {
+        "lurl": "https://www.zomato.com/mumbai/kandivali-east-restaurants",
+        "lname": "Kandivali East",
+        "lid": "C3L30"
+      }
+    ],
+    "cityName": "Mumbai",
+    "cityUrl": "https://www.zomato.com/mumbai",
+    "cityId": "C3"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/bangalore/indiranagar-restaurants",
+        "lname": "Indiranagar",
+        "lid": "C4L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/bangalore/marathahalli-restaurants",
+        "lname": "Marathahalli",
+        "lid": "C4L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/bangalore/whitefield-restaurants",
+        "lname": "Whitefield",
+        "lid": "C4L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/bangalore/koramangala-5th-block-restaurants",
+        "lname": "Koramangala 5th Block",
+        "lid": "C4L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/bangalore/hsr-restaurants",
+        "lname": "HSR",
+        "lid": "C4L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/bangalore/jayanagar-restaurants",
+        "lname": "Jayanagar",
+        "lid": "C4L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/bangalore/jp-nagar-restaurants",
+        "lname": "JP Nagar",
+        "lid": "C4L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/bangalore/sarjapur-road-restaurants",
+        "lname": "Sarjapur Road",
+        "lid": "C4L8"
+      },
+      {
+        "lurl": "https://www.zomato.com/bangalore/lavelle-road-restaurants",
+        "lname": "Lavelle Road",
+        "lid": "C4L9"
+      },
+      {
+        "lurl": "https://www.zomato.com/bangalore/malleshwaram-restaurants",
+        "lname": "Malleshwaram",
+        "lid": "C4L10"
+      },
+      {
+        "lurl": "https://www.zomato.com/bangalore/btm-restaurants",
+        "lname": "BTM",
+        "lid": "C4L11"
+      },
+      {
+        "lurl": "https://www.zomato.com/bangalore/mg-road-restaurants",
+        "lname": "MG Road",
+        "lid": "C4L12"
+      },
+      {
+        "lurl": "https://www.zomato.com/bangalore/koramangala-4th-block-restaurants",
+        "lname": "Koramangala 4th Block",
+        "lid": "C4L13"
+      },
+      {
+        "lurl": "https://www.zomato.com/bangalore/kalyan-nagar-restaurants",
+        "lname": "Kalyan Nagar",
+        "lid": "C4L14"
+      },
+      {
+        "lurl": "https://www.zomato.com/bangalore/electronic-city-restaurants",
+        "lname": "Electronic City",
+        "lid": "C4L15"
+      },
+      {
+        "lurl": "https://www.zomato.com/bangalore/bannerghatta-road-restaurants",
+        "lname": "Bannerghatta Road",
+        "lid": "C4L16"
+      },
+      {
+        "lurl": "https://www.zomato.com/bangalore/bellandur-restaurants",
+        "lname": "Bellandur",
+        "lid": "C4L17"
+      },
+      {
+        "lurl": "https://www.zomato.com/bangalore/koramangala-7th-block-restaurants",
+        "lname": "Koramangala 7th Block",
+        "lid": "C4L18"
+      },
+      {
+        "lurl": "https://www.zomato.com/bangalore/new-bel-road-restaurants",
+        "lname": "New BEL Road",
+        "lid": "C4L19"
+      },
+      {
+        "lurl": "https://www.zomato.com/bangalore/residency-road-restaurants",
+        "lname": "Residency Road",
+        "lid": "C4L20"
+      },
+      {
+        "lurl": "https://www.zomato.com/bangalore/koramangala-6th-block-restaurants",
+        "lname": "Koramangala 6th Block",
+        "lid": "C4L21"
+      },
+      {
+        "lurl": "https://www.zomato.com/bangalore/church-street-restaurants",
+        "lname": "Church Street",
+        "lid": "C4L22"
+      },
+      {
+        "lurl": "https://www.zomato.com/bangalore/brigade-road-restaurants",
+        "lname": "Brigade Road",
+        "lid": "C4L23"
+      },
+      {
+        "lurl": "https://www.zomato.com/bangalore/old-airport-road-restaurants",
+        "lname": "Old Airport Road",
+        "lid": "C4L24"
+      },
+      {
+        "lurl": "https://www.zomato.com/bangalore/banashankari-restaurants",
+        "lname": "Banashankari",
+        "lid": "C4L25"
+      },
+      {
+        "lurl": "https://www.zomato.com/bangalore/basavanagudi-restaurants",
+        "lname": "Basavanagudi",
+        "lid": "C4L26"
+      },
+      {
+        "lurl": "https://www.zomato.com/bangalore/rajajinagar-restaurants",
+        "lname": "Rajajinagar",
+        "lid": "C4L27"
+      },
+      {
+        "lurl": "https://www.zomato.com/bangalore/brookefield-restaurants",
+        "lname": "Brookefield",
+        "lid": "C4L28"
+      },
+      {
+        "lurl": "https://www.zomato.com/bangalore/kammanahalli-restaurants",
+        "lname": "Kammanahalli",
+        "lid": "C4L29"
+      },
+      {
+        "lurl": "https://www.zomato.com/bangalore/frazer-town-restaurants",
+        "lname": "Frazer Town",
+        "lid": "C4L30"
+      }
+    ],
+    "cityName": "Bengaluru",
+    "cityUrl": "https://www.zomato.com/bangalore",
+    "cityId": "C4"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/pune/baner-restaurants",
+        "lname": "Baner",
+        "lid": "C5L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/pune/viman-nagar-restaurants",
+        "lname": "Viman Nagar",
+        "lid": "C5L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/pune/hinjawadi-restaurants",
+        "lname": "Hinjawadi",
+        "lid": "C5L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/pune/koregaon-park-restaurants",
+        "lname": "Koregaon Park",
+        "lid": "C5L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/pune/wakad-restaurants",
+        "lname": "Wakad",
+        "lid": "C5L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/pune/kothrud-restaurants",
+        "lname": "Kothrud",
+        "lid": "C5L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/pune/kalyani-nagar-restaurants",
+        "lname": "Kalyani Nagar",
+        "lid": "C5L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/pune/kharadi-restaurants",
+        "lname": "Kharadi",
+        "lid": "C5L8"
+      },
+      {
+        "lurl": "https://www.zomato.com/pune/mundhwa-restaurants",
+        "lname": "Mundhwa",
+        "lid": "C5L9"
+      },
+      {
+        "lurl": "https://www.zomato.com/pune/pimple-saudagar-restaurants",
+        "lname": "Pimple Saudagar",
+        "lid": "C5L10"
+      },
+      {
+        "lurl": "https://www.zomato.com/pune/aundh-restaurants",
+        "lname": "Aundh",
+        "lid": "C5L11"
+      },
+      {
+        "lurl": "https://www.zomato.com/pune/fc-road-restaurants",
+        "lname": "FC Road",
+        "lid": "C5L12"
+      },
+      {
+        "lurl": "https://www.zomato.com/pune/hadapsar-restaurants",
+        "lname": "Hadapsar",
+        "lid": "C5L13"
+      },
+      {
+        "lurl": "https://www.zomato.com/pune/senapati-bapat-road-restaurants",
+        "lname": "Senapati Bapat Road",
+        "lid": "C5L14"
+      },
+      {
+        "lurl": "https://www.zomato.com/pune/magarpatta-restaurants",
+        "lname": "Magarpatta",
+        "lid": "C5L15"
+      },
+      {
+        "lurl": "https://www.zomato.com/pune/bavdhan-restaurants",
+        "lname": "Bavdhan",
+        "lid": "C5L16"
+      },
+      {
+        "lurl": "https://www.zomato.com/pune/deccan-gymkhana-restaurants",
+        "lname": "Deccan Gymkhana",
+        "lid": "C5L17"
+      },
+      {
+        "lurl": "https://www.zomato.com/pune/pashan-restaurants",
+        "lname": "Pashan",
+        "lid": "C5L18"
+      },
+      {
+        "lurl": "https://www.zomato.com/pune/camp-area-restaurants",
+        "lname": "Camp Area",
+        "lid": "C5L19"
+      },
+      {
+        "lurl": "https://www.zomato.com/pune/chinchwad-restaurants",
+        "lname": "Chinchwad",
+        "lid": "C5L20"
+      },
+      {
+        "lurl": "https://www.zomato.com/pune/shivaji-nagar-restaurants",
+        "lname": "Shivaji Nagar",
+        "lid": "C5L21"
+      },
+      {
+        "lurl": "https://www.zomato.com/pune/yerawada-restaurants",
+        "lname": "Yerawada",
+        "lid": "C5L22"
+      },
+      {
+        "lurl": "https://www.zomato.com/pune/sadashiv-peth-restaurants",
+        "lname": "Sadashiv Peth",
+        "lid": "C5L23"
+      },
+      {
+        "lurl": "https://www.zomato.com/pune/jm-road-restaurants",
+        "lname": "JM Road",
+        "lid": "C5L24"
+      },
+      {
+        "lurl": "https://www.zomato.com/pune/nibm-road-restaurants",
+        "lname": "NIBM Road",
+        "lid": "C5L25"
+      },
+      {
+        "lurl": "https://www.zomato.com/pune/erandwane-restaurants",
+        "lname": "Erandwane",
+        "lid": "C5L26"
+      },
+      {
+        "lurl": "https://www.zomato.com/pune/east-street-restaurants",
+        "lname": "East Street",
+        "lid": "C5L27"
+      },
+      {
+        "lurl": "https://www.zomato.com/pune/sinhgad-road-restaurants",
+        "lname": "Sinhgad Road",
+        "lid": "C5L28"
+      },
+      {
+        "lurl": "https://www.zomato.com/pune/kondhwa-restaurants",
+        "lname": "Kondhwa",
+        "lid": "C5L29"
+      },
+      {
+        "lurl": "https://www.zomato.com/pune/pimpri-restaurants",
+        "lname": "Pimpri",
+        "lid": "C5L30"
+      }
+    ],
+    "cityName": "Pune",
+    "cityUrl": "https://www.zomato.com/pune",
+    "cityId": "C5"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/hyderabad/jubilee-hills-restaurants",
+        "lname": "Jubilee Hills",
+        "lid": "C6L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/hyderabad/gachibowli-restaurants",
+        "lname": "Gachibowli",
+        "lid": "C6L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/hyderabad/banjara-hills-restaurants",
+        "lname": "Banjara Hills",
+        "lid": "C6L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/hyderabad/hitech-city-restaurants",
+        "lname": "Hitech City",
+        "lid": "C6L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/hyderabad/madhapur-restaurants",
+        "lname": "Madhapur",
+        "lid": "C6L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/hyderabad/kondapur-restaurants",
+        "lname": "Kondapur",
+        "lid": "C6L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/hyderabad/kukatpally-restaurants",
+        "lname": "Kukatpally",
+        "lid": "C6L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/hyderabad/begumpet-restaurants",
+        "lname": "Begumpet",
+        "lid": "C6L8"
+      },
+      {
+        "lurl": "https://www.zomato.com/hyderabad/himayath-nagar-restaurants",
+        "lname": "Himayath Nagar",
+        "lid": "C6L9"
+      },
+      {
+        "lurl": "https://www.zomato.com/hyderabad/tolichowki-restaurants",
+        "lname": "Tolichowki",
+        "lid": "C6L10"
+      },
+      {
+        "lurl": "https://www.zomato.com/hyderabad/ameerpet-restaurants",
+        "lname": "Ameerpet",
+        "lid": "C6L11"
+      },
+      {
+        "lurl": "https://www.zomato.com/hyderabad/somajiguda-restaurants",
+        "lname": "Somajiguda",
+        "lid": "C6L12"
+      },
+      {
+        "lurl": "https://www.zomato.com/hyderabad/film-nagar-restaurants",
+        "lname": "Film Nagar",
+        "lid": "C6L13"
+      },
+      {
+        "lurl": "https://www.zomato.com/hyderabad/paradise-circle-restaurants",
+        "lname": "Paradise Circle",
+        "lid": "C6L14"
+      },
+      {
+        "lurl": "https://www.zomato.com/hyderabad/sainikpuri-restaurants",
+        "lname": "Sainikpuri",
+        "lid": "C6L15"
+      },
+      {
+        "lurl": "https://www.zomato.com/hyderabad/necklace-road-restaurants",
+        "lname": "Necklace Road",
+        "lid": "C6L16"
+      },
+      {
+        "lurl": "https://www.zomato.com/hyderabad/kothapet-restaurants",
+        "lname": "Kothapet",
+        "lid": "C6L17"
+      },
+      {
+        "lurl": "https://www.zomato.com/hyderabad/sd-road-restaurants",
+        "lname": "S D Road",
+        "lid": "C6L18"
+      },
+      {
+        "lurl": "https://www.zomato.com/hyderabad/abids-restaurants",
+        "lname": "Abids",
+        "lid": "C6L19"
+      },
+      {
+        "lurl": "https://www.zomato.com/hyderabad/kompally-restaurants",
+        "lname": "Kompally",
+        "lid": "C6L20"
+      },
+      {
+        "lurl": "https://www.zomato.com/hyderabad/masab-tank-restaurants",
+        "lname": "Masab Tank",
+        "lid": "C6L21"
+      },
+      {
+        "lurl": "https://www.zomato.com/hyderabad/gandipet-restaurants",
+        "lname": "Gandipet",
+        "lid": "C6L22"
+      },
+      {
+        "lurl": "https://www.zomato.com/hyderabad/lb-nagar-restaurants",
+        "lname": "L B Nagar",
+        "lid": "C6L23"
+      },
+      {
+        "lurl": "https://www.zomato.com/hyderabad/miyapur-restaurants",
+        "lname": "Miyapur",
+        "lid": "C6L24"
+      },
+      {
+        "lurl": "https://www.zomato.com/hyderabad/karkhana-restaurants",
+        "lname": "Karkhana",
+        "lid": "C6L25"
+      },
+      {
+        "lurl": "https://www.zomato.com/hyderabad/basheer-bagh-restaurants",
+        "lname": "Basheer Bagh",
+        "lid": "C6L26"
+      },
+      {
+        "lurl": "https://www.zomato.com/hyderabad/panjagutta-restaurants",
+        "lname": "Panjagutta",
+        "lid": "C6L27"
+      },
+      {
+        "lurl": "https://www.zomato.com/hyderabad/as-rao-nagar-restaurants",
+        "lname": "A S Rao Nagar",
+        "lid": "C6L28"
+      },
+      {
+        "lurl": "https://www.zomato.com/hyderabad/uppal-restaurants",
+        "lname": "Uppal",
+        "lid": "C6L29"
+      },
+      {
+        "lurl": "https://www.zomato.com/hyderabad/habsiguda-restaurants",
+        "lname": "Habsiguda",
+        "lid": "C6L30"
+      }
+    ],
+    "cityName": "Hyderabad",
+    "cityUrl": "https://www.zomato.com/hyderabad",
+    "cityId": "C6"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/chennai/t-nagar-restaurants",
+        "lname": "T. Nagar",
+        "lid": "C7L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/chennai/nungambakkam-restaurants",
+        "lname": "Nungambakkam",
+        "lid": "C7L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/chennai/velachery-restaurants",
+        "lname": "Velachery",
+        "lid": "C7L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/chennai/adyar-restaurants",
+        "lname": "Adyar",
+        "lid": "C7L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/chennai/anna-nagar-east-restaurants",
+        "lname": "Anna Nagar East",
+        "lid": "C7L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/chennai/thuraipakkam-restaurants",
+        "lname": "Thuraipakkam",
+        "lid": "C7L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/chennai/mylapore-restaurants",
+        "lname": "Mylapore",
+        "lid": "C7L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/chennai/alwarpet-restaurants",
+        "lname": "Alwarpet",
+        "lid": "C7L8"
+      },
+      {
+        "lurl": "https://www.zomato.com/chennai/anna-nagar-west-restaurants",
+        "lname": "Anna Nagar West",
+        "lid": "C7L9"
+      },
+      {
+        "lurl": "https://www.zomato.com/chennai/besant-nagar-restaurants",
+        "lname": "Besant Nagar",
+        "lid": "C7L10"
+      },
+      {
+        "lurl": "https://www.zomato.com/chennai/semmancheri-restaurants",
+        "lname": "Semmancheri",
+        "lid": "C7L11"
+      },
+      {
+        "lurl": "https://www.zomato.com/chennai/vadapalani-restaurants",
+        "lname": "Vadapalani",
+        "lid": "C7L12"
+      },
+      {
+        "lurl": "https://www.zomato.com/chennai/perungudi-restaurants",
+        "lname": "Perungudi",
+        "lid": "C7L13"
+      },
+      {
+        "lurl": "https://www.zomato.com/chennai/medavakkam-restaurants",
+        "lname": "Medavakkam",
+        "lid": "C7L14"
+      },
+      {
+        "lurl": "https://www.zomato.com/chennai/egmore-restaurants",
+        "lname": "Egmore",
+        "lid": "C7L15"
+      },
+      {
+        "lurl": "https://www.zomato.com/chennai/royapettah-restaurants",
+        "lname": "Royapettah",
+        "lid": "C7L16"
+      },
+      {
+        "lurl": "https://www.zomato.com/chennai/sholinganallur-restaurants",
+        "lname": "Sholinganallur",
+        "lid": "C7L17"
+      },
+      {
+        "lurl": "https://www.zomato.com/chennai/guindy-restaurants",
+        "lname": "Guindy",
+        "lid": "C7L18"
+      },
+      {
+        "lurl": "https://www.zomato.com/chennai/kilpauk-restaurants",
+        "lname": "Kilpauk",
+        "lid": "C7L19"
+      },
+      {
+        "lurl": "https://www.zomato.com/chennai/porur-restaurants",
+        "lname": "Porur",
+        "lid": "C7L20"
+      },
+      {
+        "lurl": "https://www.zomato.com/chennai/kodambakkam-restaurants",
+        "lname": "Kodambakkam",
+        "lid": "C7L21"
+      },
+      {
+        "lurl": "https://www.zomato.com/chennai/gopalapuram-restaurants",
+        "lname": "Gopalapuram",
+        "lid": "C7L22"
+      },
+      {
+        "lurl": "https://www.zomato.com/chennai/ashok-nagar-restaurants",
+        "lname": "Ashok Nagar",
+        "lid": "C7L23"
+      },
+      {
+        "lurl": "https://www.zomato.com/chennai/teynampet-restaurants",
+        "lname": "Teynampet",
+        "lid": "C7L24"
+      },
+      {
+        "lurl": "https://www.zomato.com/chennai/pallavaram-restaurants",
+        "lname": "Pallavaram",
+        "lid": "C7L25"
+      },
+      {
+        "lurl": "https://www.zomato.com/chennai/ramapuram-restaurants",
+        "lname": "Ramapuram",
+        "lid": "C7L26"
+      },
+      {
+        "lurl": "https://www.zomato.com/chennai/ra-puram-restaurants",
+        "lname": "RA Puram",
+        "lid": "C7L27"
+      },
+      {
+        "lurl": "https://www.zomato.com/chennai/chromepet-restaurants",
+        "lname": "Chromepet",
+        "lid": "C7L28"
+      },
+      {
+        "lurl": "https://www.zomato.com/chennai/neelangarai-restaurants",
+        "lname": "Neelangarai",
+        "lid": "C7L29"
+      },
+      {
+        "lurl": "https://www.zomato.com/chennai/navallur-restaurants",
+        "lname": "Navallur",
+        "lid": "C7L30"
+      }
+    ],
+    "cityName": "Chennai",
+    "cityUrl": "https://www.zomato.com/chennai",
+    "cityId": "C7"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/lucknow/gomti-nagar-restaurants",
+        "lname": "Gomti Nagar",
+        "lid": "C8L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/lucknow/hazratganj-restaurants",
+        "lname": "Hazratganj",
+        "lid": "C8L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/lucknow/aliganj-restaurants",
+        "lname": "Aliganj",
+        "lid": "C8L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/lucknow/indira-nagar-restaurants",
+        "lname": "Indira Nagar",
+        "lid": "C8L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/lucknow/alambagh-restaurants",
+        "lname": "Alambagh",
+        "lid": "C8L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/lucknow/aashiana-restaurants",
+        "lname": "Aashiana",
+        "lid": "C8L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/lucknow/chowk-restaurants",
+        "lname": "Chowk",
+        "lid": "C8L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/lucknow/aminabad-restaurants",
+        "lname": "Aminabad",
+        "lid": "C8L8"
+      },
+      {
+        "lurl": "https://www.zomato.com/lucknow/mahanagar-restaurants",
+        "lname": "Mahanagar",
+        "lid": "C8L9"
+      },
+      {
+        "lurl": "https://www.zomato.com/lucknow/lalbagh-restaurants",
+        "lname": "Lalbagh",
+        "lid": "C8L10"
+      },
+      {
+        "lurl": "https://www.zomato.com/lucknow/charbagh-restaurants",
+        "lname": "Charbagh",
+        "lid": "C8L11"
+      },
+      {
+        "lurl": "https://www.zomato.com/lucknow/sadar-bazaar-restaurants",
+        "lname": "Sadar Bazaar",
+        "lid": "C8L12"
+      },
+      {
+        "lurl": "https://www.zomato.com/lucknow/rajajipuram-restaurants",
+        "lname": "Rajajipuram",
+        "lid": "C8L13"
+      },
+      {
+        "lurl": "https://www.zomato.com/lucknow/khurram-nagar-restaurants",
+        "lname": "Khurram Nagar",
+        "lid": "C8L14"
+      },
+      {
+        "lurl": "https://www.zomato.com/lucknow/aishbagh-restaurants",
+        "lname": "Aishbagh",
+        "lid": "C8L15"
+      },
+      {
+        "lurl": "https://www.zomato.com/lucknow/nishatganj-restaurants",
+        "lname": "Nishatganj",
+        "lid": "C8L16"
+      },
+      {
+        "lurl": "https://www.zomato.com/lucknow/nirala-nagar-restaurants",
+        "lname": "Nirala Nagar",
+        "lid": "C8L17"
+      },
+      {
+        "lurl": "https://www.zomato.com/lucknow/husain-ganj-restaurants",
+        "lname": "Husain Ganj",
+        "lid": "C8L18"
+      },
+      {
+        "lurl": "https://www.zomato.com/lucknow/kaiserbagh-restaurants",
+        "lname": "Kaiserbagh",
+        "lid": "C8L19"
+      },
+      {
+        "lurl": "https://www.zomato.com/lucknow/kanpur-road-restaurants",
+        "lname": "Kanpur Road",
+        "lid": "C8L20"
+      }
+    ],
+    "cityName": "Lucknow",
+    "cityUrl": "https://www.zomato.com/lucknow",
+    "cityId": "C8"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/kochi/kakkanad-restaurants",
+        "lname": "Kakkanad",
+        "lid": "C9L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/kochi/edappally-restaurants",
+        "lname": "Edappally",
+        "lid": "C9L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/kochi/fort-kochi-restaurants",
+        "lname": "Fort Kochi",
+        "lid": "C9L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/kochi/panampilly-nagar-restaurants",
+        "lname": "Panampilly Nagar",
+        "lid": "C9L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/kochi/mg-road-restaurants",
+        "lname": "MG Road",
+        "lid": "C9L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/kochi/kacheripady-restaurants",
+        "lname": "Kacheripady",
+        "lid": "C9L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/kochi/palarivattom-restaurants",
+        "lname": "Palarivattom",
+        "lid": "C9L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/kochi/vyttila-restaurants",
+        "lname": "Vyttila",
+        "lid": "C9L8"
+      },
+      {
+        "lurl": "https://www.zomato.com/kochi/pallimukku-restaurants",
+        "lname": "Pallimukku",
+        "lid": "C9L9"
+      },
+      {
+        "lurl": "https://www.zomato.com/kochi/kaloor-restaurants",
+        "lname": "Kaloor",
+        "lid": "C9L10"
+      },
+      {
+        "lurl": "https://www.zomato.com/kochi/elamkulam-restaurants",
+        "lname": "Elamkulam",
+        "lid": "C9L11"
+      },
+      {
+        "lurl": "https://www.zomato.com/kochi/marad-restaurants",
+        "lname": "Marad",
+        "lid": "C9L12"
+      },
+      {
+        "lurl": "https://www.zomato.com/kochi/tripunithura-restaurants",
+        "lname": "Tripunithura",
+        "lid": "C9L13"
+      },
+      {
+        "lurl": "https://www.zomato.com/kochi/mattancherry-restaurants",
+        "lname": "Mattancherry",
+        "lid": "C9L14"
+      },
+      {
+        "lurl": "https://www.zomato.com/kochi/marine-drive-restaurants",
+        "lname": "Marine Drive",
+        "lid": "C9L15"
+      },
+      {
+        "lurl": "https://www.zomato.com/kochi/aluva-restaurants",
+        "lname": "Aluva",
+        "lid": "C9L16"
+      },
+      {
+        "lurl": "https://www.zomato.com/kochi/nedumbassery-restaurants",
+        "lname": "Nedumbassery",
+        "lid": "C9L17"
+      },
+      {
+        "lurl": "https://www.zomato.com/kochi/ravipuram-restaurants",
+        "lname": "Ravipuram",
+        "lid": "C9L18"
+      },
+      {
+        "lurl": "https://www.zomato.com/kochi/chittor-road-restaurants",
+        "lname": "Chittoor Road",
+        "lid": "C9L19"
+      },
+      {
+        "lurl": "https://www.zomato.com/kochi/kadavanthra-restaurants",
+        "lname": "Kadavanthra",
+        "lid": "C9L20"
+      },
+      {
+        "lurl": "https://www.zomato.com/kochi/willingdon-island-restaurants",
+        "lname": "Willingdon Island",
+        "lid": "C9L21"
+      },
+      {
+        "lurl": "https://www.zomato.com/kochi/kalamassery-restaurants",
+        "lname": "Kalamassery",
+        "lid": "C9L22"
+      },
+      {
+        "lurl": "https://www.zomato.com/kochi/vennala-restaurants",
+        "lname": "Vennala",
+        "lid": "C9L23"
+      },
+      {
+        "lurl": "https://www.zomato.com/kochi/thopumpady-restaurants",
+        "lname": "Thopumpady",
+        "lid": "C9L24"
+      },
+      {
+        "lurl": "https://www.zomato.com/kochi/thevera-restaurants",
+        "lname": "Thevera",
+        "lid": "C9L25"
+      },
+      {
+        "lurl": "https://www.zomato.com/kochi/elamakkara-restaurants",
+        "lname": "Elamakkara",
+        "lid": "C9L26"
+      },
+      {
+        "lurl": "https://www.zomato.com/kochi/angamali-restaurants",
+        "lname": "Angamali",
+        "lid": "C9L27"
+      },
+      {
+        "lurl": "https://www.zomato.com/kochi/vypin-restaurants",
+        "lname": "Vypin",
+        "lid": "C9L28"
+      },
+      {
+        "lurl": "https://www.zomato.com/kochi/chullickal-restaurants",
+        "lname": "Chullickal",
+        "lid": "C9L29"
+      },
+      {
+        "lurl": "https://www.zomato.com/kochi/cheranalloor-restaurants",
+        "lname": "Cheranalloor",
+        "lid": "C9L30"
+      }
+    ],
+    "cityName": "Kochi",
+    "cityUrl": "https://www.zomato.com/kochi",
+    "cityId": "C9"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/jaipur/c-scheme-restaurants",
+        "lname": "C Scheme",
+        "lid": "C10L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/jaipur/malviya-nagar-restaurants",
+        "lname": "Malviya Nagar",
+        "lid": "C10L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/jaipur/tonk-road-restaurants",
+        "lname": "Tonk Road",
+        "lid": "C10L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/jaipur/vaishali-nagar-restaurants",
+        "lname": "Vaishali Nagar",
+        "lid": "C10L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/jaipur/mi-road-restaurants",
+        "lname": "MI Road",
+        "lid": "C10L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/jaipur/mansarovar-restaurants",
+        "lname": "Mansarovar",
+        "lid": "C10L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/jaipur/raja-park-restaurants",
+        "lname": "Raja Park",
+        "lid": "C10L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/jaipur/bani-park-restaurants",
+        "lname": "Bani Park",
+        "lid": "C10L8"
+      },
+      {
+        "lurl": "https://www.zomato.com/jaipur/bais-godam-restaurants",
+        "lname": "Bais Godam",
+        "lid": "C10L9"
+      },
+      {
+        "lurl": "https://www.zomato.com/jaipur/adarsh-nagar-restaurants",
+        "lname": "Adarsh Nagar",
+        "lid": "C10L10"
+      },
+      {
+        "lurl": "https://www.zomato.com/jaipur/ajmer-highway-restaurants",
+        "lname": "Ajmer Highway",
+        "lid": "C10L11"
+      },
+      {
+        "lurl": "https://www.zomato.com/jaipur/lal-kothi-restaurants",
+        "lname": "Lal Kothi",
+        "lid": "C10L12"
+      },
+      {
+        "lurl": "https://www.zomato.com/jaipur/gopalbari-restaurants",
+        "lname": "Gopalbari",
+        "lid": "C10L13"
+      },
+      {
+        "lurl": "https://www.zomato.com/jaipur/sodala-restaurants",
+        "lname": "Sodala",
+        "lid": "C10L14"
+      },
+      {
+        "lurl": "https://www.zomato.com/jaipur/shyam-nagar-restaurants",
+        "lname": "Shyam Nagar",
+        "lid": "C10L15"
+      },
+      {
+        "lurl": "https://www.zomato.com/jaipur/sindhi-camp-restaurants",
+        "lname": "Sindhi Camp",
+        "lid": "C10L16"
+      },
+      {
+        "lurl": "https://www.zomato.com/jaipur/pink-city-restaurants",
+        "lname": "Pink City",
+        "lid": "C10L17"
+      },
+      {
+        "lurl": "https://www.zomato.com/jaipur/amer-restaurants",
+        "lname": "Amer",
+        "lid": "C10L18"
+      },
+      {
+        "lurl": "https://www.zomato.com/jaipur/civil-lines-restaurants",
+        "lname": "Civil Lines",
+        "lid": "C10L19"
+      },
+      {
+        "lurl": "https://www.zomato.com/jaipur/chitrakoot-restaurants",
+        "lname": "Chitrakoot",
+        "lid": "C10L20"
+      },
+      {
+        "lurl": "https://www.zomato.com/jaipur/narayan-singh-circle-restaurants",
+        "lname": "Narayan Singh Circle",
+        "lid": "C10L21"
+      },
+      {
+        "lurl": "https://www.zomato.com/jaipur/sikar-road-restaurants",
+        "lname": "Sikar Road",
+        "lid": "C10L22"
+      },
+      {
+        "lurl": "https://www.zomato.com/jaipur/vidhyadhar-nagar-restaurants",
+        "lname": "Vidhyadhar Nagar",
+        "lid": "C10L23"
+      },
+      {
+        "lurl": "https://www.zomato.com/jaipur/bapu-nagar-restaurants",
+        "lname": "Bapu Nagar",
+        "lid": "C10L24"
+      },
+      {
+        "lurl": "https://www.zomato.com/jaipur/amer-road-restaurants",
+        "lname": "Amer Road",
+        "lid": "C10L25"
+      },
+      {
+        "lurl": "https://www.zomato.com/jaipur/jhotwara-restaurants",
+        "lname": "Jhotwara",
+        "lid": "C10L26"
+      },
+      {
+        "lurl": "https://www.zomato.com/jaipur/shastri-nagar-restaurants",
+        "lname": "Shastri Nagar",
+        "lid": "C10L27"
+      },
+      {
+        "lurl": "https://www.zomato.com/jaipur/kukas-restaurants",
+        "lname": "Kukas",
+        "lid": "C10L28"
+      },
+      {
+        "lurl": "https://www.zomato.com/jaipur/jawahar-nagar-restaurants",
+        "lname": "Jawahar Nagar",
+        "lid": "C10L29"
+      },
+      {
+        "lurl": "https://www.zomato.com/jaipur/khatipura-road-restaurants",
+        "lname": "Khatipura Road",
+        "lid": "C10L30"
+      }
+    ],
+    "cityName": "Jaipur",
+    "cityUrl": "https://www.zomato.com/jaipur",
+    "cityId": "C10"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/ahmedabad/bodakdev-restaurants",
+        "lname": "Bodakdev",
+        "lid": "C11L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/ahmedabad/navrangpura-restaurants",
+        "lname": "Navrangpura",
+        "lid": "C11L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/ahmedabad/prahlad-nagar-restaurants",
+        "lname": "Prahlad Nagar",
+        "lid": "C11L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/ahmedabad/satellite-restaurants",
+        "lname": "Satellite",
+        "lid": "C11L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/ahmedabad/vastrapur-restaurants",
+        "lname": "Vastrapur",
+        "lid": "C11L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/ahmedabad/cg-road-restaurants",
+        "lname": "C G Road",
+        "lid": "C11L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/ahmedabad/gurukul-restaurants",
+        "lname": "Gurukul",
+        "lid": "C11L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/ahmedabad/thaltej-restaurants",
+        "lname": "Thaltej",
+        "lid": "C11L8"
+      },
+      {
+        "lurl": "https://www.zomato.com/ahmedabad/ashram-road-restaurants",
+        "lname": "Ashram Road",
+        "lid": "C11L9"
+      },
+      {
+        "lurl": "https://www.zomato.com/ahmedabad/chandkheda-restaurants",
+        "lname": "Chandkheda",
+        "lid": "C11L10"
+      },
+      {
+        "lurl": "https://www.zomato.com/ahmedabad/bopal-restaurants",
+        "lname": "Bopal",
+        "lid": "C11L11"
+      },
+      {
+        "lurl": "https://www.zomato.com/ahmedabad/sola-restaurants",
+        "lname": "Sola",
+        "lid": "C11L12"
+      },
+      {
+        "lurl": "https://www.zomato.com/ahmedabad/airport-gandhinagar-highway-restaurants",
+        "lname": "Airport Gandhinagar Highway",
+        "lid": "C11L13"
+      },
+      {
+        "lurl": "https://www.zomato.com/ahmedabad/ellis-bridge-restaurants",
+        "lname": "Ellis Bridge",
+        "lid": "C11L14"
+      },
+      {
+        "lurl": "https://www.zomato.com/ahmedabad/infocity-restaurants",
+        "lname": "Infocity",
+        "lid": "C11L15"
+      },
+      {
+        "lurl": "https://www.zomato.com/ahmedabad/ambavadi-restaurants",
+        "lname": "Ambavadi",
+        "lid": "C11L16"
+      },
+      {
+        "lurl": "https://www.zomato.com/ahmedabad/mani-nagar-restaurants",
+        "lname": "Mani Nagar",
+        "lid": "C11L17"
+      },
+      {
+        "lurl": "https://www.zomato.com/ahmedabad/naranpura-restaurants",
+        "lname": "Naranpura",
+        "lid": "C11L18"
+      },
+      {
+        "lurl": "https://www.zomato.com/ahmedabad/gota-restaurants",
+        "lname": "Gota",
+        "lid": "C11L19"
+      },
+      {
+        "lurl": "https://www.zomato.com/ahmedabad/paldi-restaurants",
+        "lname": "Paldi",
+        "lid": "C11L20"
+      },
+      {
+        "lurl": "https://www.zomato.com/ahmedabad/gulbai-tekra-restaurants",
+        "lname": "Gulbai Tekra",
+        "lid": "C11L21"
+      },
+      {
+        "lurl": "https://www.zomato.com/ahmedabad/adalaj-restaurants",
+        "lname": "Adalaj",
+        "lid": "C11L22"
+      },
+      {
+        "lurl": "https://www.zomato.com/ahmedabad/lal-darwaja-restaurants",
+        "lname": "Lal Darwaja",
+        "lid": "C11L23"
+      },
+      {
+        "lurl": "https://www.zomato.com/ahmedabad/naroda-restaurants",
+        "lname": "Naroda",
+        "lid": "C11L24"
+      },
+      {
+        "lurl": "https://www.zomato.com/ahmedabad/sarkhej-restaurants",
+        "lname": "Sarkhej",
+        "lid": "C11L25"
+      },
+      {
+        "lurl": "https://www.zomato.com/ahmedabad/ghatlodia-restaurants",
+        "lname": "Ghatlodia",
+        "lid": "C11L26"
+      },
+      {
+        "lurl": "https://www.zomato.com/ahmedabad/vejalpur-restaurants",
+        "lname": "Vejalpur",
+        "lid": "C11L27"
+      },
+      {
+        "lurl": "https://www.zomato.com/ahmedabad/shahibagh-restaurants",
+        "lname": "Shahibagh",
+        "lid": "C11L28"
+      },
+      {
+        "lurl": "https://www.zomato.com/ahmedabad/vasna-restaurants",
+        "lname": "Vasna",
+        "lid": "C11L29"
+      },
+      {
+        "lurl": "https://www.zomato.com/ahmedabad/bhadra-restaurants",
+        "lname": "Bhadra",
+        "lid": "C11L30"
+      }
+    ],
+    "cityName": "Ahmedabad",
+    "cityUrl": "https://www.zomato.com/ahmedabad",
+    "cityId": "C11"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/chandigarh/chandigarh-industrial-area-restaurants",
+        "lname": "Chandigarh Industrial Area",
+        "lid": "C12L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/chandigarh/sector-26-chandigarh-restaurants",
+        "lname": "Sector 26, Chandigarh",
+        "lid": "C12L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/chandigarh/sector-7-chandigarh-restaurants",
+        "lname": "Sector 7, Chandigarh",
+        "lid": "C12L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/chandigarh/sector-35-chandigarh-restaurants",
+        "lname": "Sector 35, Chandigarh",
+        "lid": "C12L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/chandigarh/sector-8-chandigarh-restaurants",
+        "lname": "Sector 8, Chandigarh",
+        "lid": "C12L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/chandigarh/sector-9-panchkula-restaurants",
+        "lname": "Sector 9, Panchkula",
+        "lid": "C12L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/chandigarh/phase-5-mohali-restaurants",
+        "lname": "Phase 5, Mohali",
+        "lid": "C12L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/chandigarh/sector-9-chandigarh-restaurants",
+        "lname": "Sector 9, Chandigarh",
+        "lid": "C12L8"
+      },
+      {
+        "lurl": "https://www.zomato.com/chandigarh/kharar-road-restaurants",
+        "lname": "Kharar Road",
+        "lid": "C12L9"
+      },
+      {
+        "lurl": "https://www.zomato.com/chandigarh/phase-3-mohali-restaurants",
+        "lname": "Phase 3, Mohali",
+        "lid": "C12L10"
+      },
+      {
+        "lurl": "https://www.zomato.com/chandigarh/sector-17-chandigarh-restaurants",
+        "lname": "Sector 17, Chandigarh",
+        "lid": "C12L11"
+      },
+      {
+        "lurl": "https://www.zomato.com/chandigarh/sector-34-chandigarh-restaurants",
+        "lname": "Sector 34, Chandigarh",
+        "lid": "C12L12"
+      },
+      {
+        "lurl": "https://www.zomato.com/chandigarh/phase-10-mohali-restaurants",
+        "lname": "Phase 10, Mohali",
+        "lid": "C12L13"
+      },
+      {
+        "lurl": "https://www.zomato.com/chandigarh/sector-10-chandigarh-restaurants",
+        "lname": "Sector 10, Chandigarh",
+        "lid": "C12L14"
+      },
+      {
+        "lurl": "https://www.zomato.com/chandigarh/sector-22-chandigarh-restaurants",
+        "lname": "Sector 22, Chandigarh",
+        "lid": "C12L15"
+      },
+      {
+        "lurl": "https://www.zomato.com/chandigarh/sector-5-panchkula-restaurants",
+        "lname": "Sector 5, Panchkula",
+        "lid": "C12L16"
+      },
+      {
+        "lurl": "https://www.zomato.com/chandigarh/phase-7-mohali-restaurants",
+        "lname": "Phase 7, Mohali",
+        "lid": "C12L17"
+      },
+      {
+        "lurl": "https://www.zomato.com/chandigarh/ambala-road-restaurants",
+        "lname": "Ambala Road",
+        "lid": "C12L18"
+      },
+      {
+        "lurl": "https://www.zomato.com/chandigarh/vip-road-restaurants",
+        "lname": "VIP Road",
+        "lid": "C12L19"
+      },
+      {
+        "lurl": "https://www.zomato.com/chandigarh/sector-70-mohali-restaurants",
+        "lname": "Sector 70, Mohali",
+        "lid": "C12L20"
+      },
+      {
+        "lurl": "https://www.zomato.com/chandigarh/sector-2-panchkula-restaurants",
+        "lname": "Sector 2, Panchkula",
+        "lid": "C12L21"
+      },
+      {
+        "lurl": "https://www.zomato.com/chandigarh/sector-20-panchkula-restaurants",
+        "lname": "Sector 20, Panchkula",
+        "lid": "C12L22"
+      },
+      {
+        "lurl": "https://www.zomato.com/chandigarh/sector-15-chandigarh-restaurants",
+        "lname": "Sector 15, Chandigarh",
+        "lid": "C12L23"
+      },
+      {
+        "lurl": "https://www.zomato.com/chandigarh/sector-32-chandigarh-restaurants",
+        "lname": "Sector 32, Chandigarh",
+        "lid": "C12L24"
+      },
+      {
+        "lurl": "https://www.zomato.com/chandigarh/sector-16-panchkula-restaurants",
+        "lname": "Sector 16, Panchkula",
+        "lid": "C12L25"
+      },
+      {
+        "lurl": "https://www.zomato.com/chandigarh/sector-67-mohali-restaurants",
+        "lname": "Sector 67, Mohali",
+        "lid": "C12L26"
+      },
+      {
+        "lurl": "https://www.zomato.com/chandigarh/sector-11-panchkula-restaurants",
+        "lname": "Sector 11, Panchkula",
+        "lid": "C12L27"
+      },
+      {
+        "lurl": "https://www.zomato.com/chandigarh/sector-46-chandigarh-restaurants",
+        "lname": "Sector 46, Chandigarh",
+        "lid": "C12L28"
+      },
+      {
+        "lurl": "https://www.zomato.com/chandigarh/it-park-restaurants",
+        "lname": "IT Park",
+        "lid": "C12L29"
+      },
+      {
+        "lurl": "https://www.zomato.com/chandigarh/sector-37-chandigarh-restaurants",
+        "lname": "Sector 37, Chandigarh",
+        "lid": "C12L30"
+      }
+    ],
+    "cityName": "Chandigarh",
+    "cityUrl": "https://www.zomato.com/chandigarh",
+    "cityId": "C12"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/goa/panaji-restaurants",
+        "lname": "Panaji",
+        "lid": "C13L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/goa/anjuna-restaurants",
+        "lname": "Anjuna",
+        "lid": "C13L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/goa/candolim-restaurants",
+        "lname": "Candolim",
+        "lid": "C13L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/goa/calangute-restaurants",
+        "lname": "Calangute",
+        "lid": "C13L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/goa/baga-restaurants",
+        "lname": "Baga",
+        "lid": "C13L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/goa/vagator-restaurants",
+        "lname": "Vagator",
+        "lid": "C13L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/goa/margao-restaurants",
+        "lname": "Margao",
+        "lid": "C13L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/goa/arambol-restaurants",
+        "lname": "Arambol",
+        "lid": "C13L8"
+      },
+      {
+        "lurl": "https://www.zomato.com/goa/cavelossim-restaurants",
+        "lname": "Cavelossim",
+        "lid": "C13L9"
+      },
+      {
+        "lurl": "https://www.zomato.com/goa/penha-de-franca-restaurants",
+        "lname": "Penha de Franca",
+        "lid": "C13L10"
+      },
+      {
+        "lurl": "https://www.zomato.com/goa/benaulim-restaurants",
+        "lname": "Benaulim",
+        "lid": "C13L11"
+      },
+      {
+        "lurl": "https://www.zomato.com/goa/colva-restaurants",
+        "lname": "Colva",
+        "lid": "C13L12"
+      },
+      {
+        "lurl": "https://www.zomato.com/goa/nerul-restaurants",
+        "lname": "Nerul",
+        "lid": "C13L13"
+      },
+      {
+        "lurl": "https://www.zomato.com/goa/mapusa-restaurants",
+        "lname": "Mapusa",
+        "lid": "C13L14"
+      },
+      {
+        "lurl": "https://www.zomato.com/goa/betalbatim-restaurants",
+        "lname": "Betalbatim",
+        "lid": "C13L15"
+      },
+      {
+        "lurl": "https://www.zomato.com/goa/bambolim-restaurants",
+        "lname": "Bambolim",
+        "lid": "C13L16"
+      },
+      {
+        "lurl": "https://www.zomato.com/goa/palolem-restaurants",
+        "lname": "Palolem",
+        "lid": "C13L17"
+      },
+      {
+        "lurl": "https://www.zomato.com/goa/majorda-restaurants",
+        "lname": "Majorda",
+        "lid": "C13L18"
+      },
+      {
+        "lurl": "https://www.zomato.com/goa/assagao-restaurants",
+        "lname": "Assagao",
+        "lid": "C13L19"
+      },
+      {
+        "lurl": "https://www.zomato.com/goa/vasco-restaurants",
+        "lname": "Vasco",
+        "lid": "C13L20"
+      },
+      {
+        "lurl": "https://www.zomato.com/goa/ponda-restaurants",
+        "lname": "Ponda",
+        "lid": "C13L21"
+      },
+      {
+        "lurl": "https://www.zomato.com/goa/bogmalo-restaurants",
+        "lname": "Bogmalo",
+        "lid": "C13L22"
+      },
+      {
+        "lurl": "https://www.zomato.com/goa/old-goa-restaurants",
+        "lname": "Old Goa",
+        "lid": "C13L23"
+      },
+      {
+        "lurl": "https://www.zomato.com/goa/quepem-restaurants",
+        "lname": "Quepem",
+        "lid": "C13L24"
+      },
+      {
+        "lurl": "https://www.zomato.com/goa/bicholim-restaurants",
+        "lname": "Bicholim",
+        "lid": "C13L25"
+      },
+      {
+        "lurl": "https://www.zomato.com/goa/chicalim-restaurants",
+        "lname": "Chicalim",
+        "lid": "C13L26"
+      }
+    ],
+    "cityName": "Goa",
+    "cityUrl": "https://www.zomato.com/goa",
+    "cityId": "C13"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/indore/vijay-nagar-restaurants",
+        "lname": "Vijay Nagar",
+        "lid": "C14L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/indore/new-palasia-restaurants",
+        "lname": "New Palasia",
+        "lid": "C14L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/indore/old-palasia-restaurants",
+        "lname": "Old Palasia",
+        "lid": "C14L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/indore/bhawar-kuan-restaurants",
+        "lname": "Bhawar Kuan",
+        "lid": "C14L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/indore/rau-restaurants",
+        "lname": "Rau",
+        "lid": "C14L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/indore/by-pass-road-north-restaurants",
+        "lname": "By Pass Road (North)",
+        "lid": "C14L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/indore/south-tukoganj-restaurants",
+        "lname": "South Tukoganj",
+        "lid": "C14L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/indore/sapna-sangeeta-restaurants",
+        "lname": "Sapna Sangeeta",
+        "lid": "C14L8"
+      },
+      {
+        "lurl": "https://www.zomato.com/indore/rnt-marg-restaurants",
+        "lname": "RNT Marg",
+        "lid": "C14L9"
+      },
+      {
+        "lurl": "https://www.zomato.com/indore/by-pass-road-south-restaurants",
+        "lname": "By Pass Road (South)",
+        "lid": "C14L10"
+      },
+      {
+        "lurl": "https://www.zomato.com/indore/sarwate-bus-stand-restaurants",
+        "lname": "Sarwate Bus Stand",
+        "lid": "C14L11"
+      },
+      {
+        "lurl": "https://www.zomato.com/indore/geeta-bhavan-restaurants",
+        "lname": "Geeta Bhavan",
+        "lid": "C14L12"
+      },
+      {
+        "lurl": "https://www.zomato.com/indore/yn-road-restaurants",
+        "lname": "YN Road",
+        "lid": "C14L13"
+      },
+      {
+        "lurl": "https://www.zomato.com/indore/hig-lig-restaurants",
+        "lname": "HIG-LIG",
+        "lid": "C14L14"
+      },
+      {
+        "lurl": "https://www.zomato.com/indore/mr-10-road-restaurants",
+        "lname": "MR 10 Road",
+        "lid": "C14L15"
+      },
+      {
+        "lurl": "https://www.zomato.com/indore/rajendra-nagar-restaurants",
+        "lname": "Rajendra Nagar",
+        "lid": "C14L16"
+      },
+      {
+        "lurl": "https://www.zomato.com/indore/khajrana-restaurants",
+        "lname": "Khajrana",
+        "lid": "C14L17"
+      },
+      {
+        "lurl": "https://www.zomato.com/indore/sudama-nagar-restaurants",
+        "lname": "Sudama Nagar",
+        "lid": "C14L18"
+      },
+      {
+        "lurl": "https://www.zomato.com/indore/sarafa-bazaar-restaurants",
+        "lname": "Sarafa Bazaar",
+        "lid": "C14L19"
+      },
+      {
+        "lurl": "https://www.zomato.com/indore/annapurna-road-restaurants",
+        "lname": "Annapurna Road",
+        "lid": "C14L20"
+      },
+      {
+        "lurl": "https://www.zomato.com/indore/press-complex-restaurants",
+        "lname": "Press Complex",
+        "lid": "C14L21"
+      },
+      {
+        "lurl": "https://www.zomato.com/indore/manik-bagh-road-restaurants",
+        "lname": "Manik Bagh Road",
+        "lid": "C14L22"
+      },
+      {
+        "lurl": "https://www.zomato.com/indore/chhavani-restaurants",
+        "lname": "Chhavani",
+        "lid": "C14L23"
+      },
+      {
+        "lurl": "https://www.zomato.com/indore/airport-road-restaurants",
+        "lname": "Airport Road",
+        "lid": "C14L24"
+      },
+      {
+        "lurl": "https://www.zomato.com/indore/gangwal-bus-stand-restaurants",
+        "lname": "Gangwal Bus Stand",
+        "lid": "C14L25"
+      },
+      {
+        "lurl": "https://www.zomato.com/indore/navlakha-restaurants",
+        "lname": "Navlakha",
+        "lid": "C14L26"
+      },
+      {
+        "lurl": "https://www.zomato.com/indore/ranjeet-hanuman-restaurants",
+        "lname": "Ranjeet Hanuman",
+        "lid": "C14L27"
+      },
+      {
+        "lurl": "https://www.zomato.com/indore/jail-road-restaurants",
+        "lname": "Jail Road",
+        "lid": "C14L28"
+      },
+      {
+        "lurl": "https://www.zomato.com/indore/bombay-bazaar-restaurants",
+        "lname": "Bombay Bazaar",
+        "lid": "C14L29"
+      },
+      {
+        "lurl": "https://www.zomato.com/indore/kothari-market-restaurants",
+        "lname": "Kothari Market",
+        "lid": "C14L30"
+      }
+    ],
+    "cityName": "Indore",
+    "cityUrl": "https://www.zomato.com/indore",
+    "cityId": "C14"
+  },
+  {
+    "localities": [
+      
+    ],
+    "cityName": "Gangtok",
+    "cityUrl": "https://www.zomato.com/gangtok",
+    "cityId": "C15"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/nashik/college-road-restaurants",
+        "lname": "College Road",
+        "lid": "C16L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/nashik/satpur-restaurants",
+        "lname": "Satpur",
+        "lid": "C16L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/nashik/parijat-nagar-restaurants",
+        "lname": "Parijat Nagar",
+        "lid": "C16L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/nashik/panchavati-restaurants",
+        "lname": "Panchavati",
+        "lid": "C16L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/nashik/pathardi-phata-restaurants",
+        "lname": "Pathardi Phata",
+        "lid": "C16L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/nashik/anand-wali-goan-restaurants",
+        "lname": "Anand Wali Goan",
+        "lid": "C16L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/nashik/sharanpur-restaurants",
+        "lname": "Sharanpur",
+        "lid": "C16L7"
+      }
+    ],
+    "cityName": "Nashik",
+    "cityUrl": "https://www.zomato.com/nashik",
+    "cityId": "C16"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/ooty/elk-hill-restaurants",
+        "lname": "Elk Hill",
+        "lid": "C17L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/ooty/kandal-restaurants",
+        "lname": "Kandal",
+        "lid": "C17L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/ooty/thalayathimund-restaurants",
+        "lname": "Thalayathimund",
+        "lid": "C17L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/ooty/marlimund-restaurants",
+        "lname": "Marlimund",
+        "lid": "C17L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/ooty/anna-nagar-restaurants",
+        "lname": "Anna Nagar",
+        "lid": "C17L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/ooty/indunagar-restaurants",
+        "lname": "Indunagar",
+        "lid": "C17L6"
+      }
+    ],
+    "cityName": "Ooty",
+    "cityUrl": "https://www.zomato.com/ooty",
+    "cityId": "C17"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/shimla/summer-hill-restaurants",
+        "lname": "Summer Hill",
+        "lid": "C18L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/shimla/longwood-restaurants",
+        "lname": "Longwood",
+        "lid": "C18L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/shimla/sanjauli-restaurants",
+        "lname": "Sanjauli",
+        "lid": "C18L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/shimla/panthaghati-restaurants",
+        "lname": "Panthaghati",
+        "lid": "C18L4"
+      }
+    ],
+    "cityName": "Shimla",
+    "cityUrl": "https://www.zomato.com/shimla",
+    "cityId": "C18"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/ludhiana/sarabha-nagar-restaurants",
+        "lname": "Sarabha Nagar",
+        "lid": "C19L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/ludhiana/gurudev-nagar-restaurants",
+        "lname": "Gurudev Nagar",
+        "lid": "C19L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/ludhiana/model-town-restaurants",
+        "lname": "Model Town",
+        "lid": "C19L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/ludhiana/civil-lines-restaurants",
+        "lname": "Civil Lines",
+        "lid": "C19L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/ludhiana/brs-nagar-restaurants",
+        "lname": "BRS Nagar",
+        "lid": "C19L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/ludhiana/rajguru-nagar-restaurants",
+        "lname": "Rajguru Nagar",
+        "lid": "C19L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/ludhiana/dugri-restaurants",
+        "lname": "Dugri",
+        "lid": "C19L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/ludhiana/pau-restaurants",
+        "lname": "PAU",
+        "lid": "C19L8"
+      },
+      {
+        "lurl": "https://www.zomato.com/ludhiana/ludhiana-junction-restaurants",
+        "lname": "Ludhiana Junction",
+        "lid": "C19L9"
+      },
+      {
+        "lurl": "https://www.zomato.com/ludhiana/pakhowal-road-restaurants",
+        "lname": "Pakhowal Road",
+        "lid": "C19L10"
+      },
+      {
+        "lurl": "https://www.zomato.com/ludhiana/aggar-nagar-restaurants",
+        "lname": "Aggar Nagar",
+        "lid": "C19L11"
+      },
+      {
+        "lurl": "https://www.zomato.com/ludhiana/industrial-area-restaurants",
+        "lname": "Industrial Area",
+        "lid": "C19L12"
+      },
+      {
+        "lurl": "https://www.zomato.com/ludhiana/sector-32-ludhiana-restaurants",
+        "lname": "Sector 32, Ludhiana",
+        "lid": "C19L13"
+      },
+      {
+        "lurl": "https://www.zomato.com/ludhiana/shastri-nagar-restaurants",
+        "lname": "Shastri Nagar",
+        "lid": "C19L14"
+      },
+      {
+        "lurl": "https://www.zomato.com/ludhiana/samrala-chowk-restaurants",
+        "lname": "Samrala Chowk",
+        "lid": "C19L15"
+      },
+      {
+        "lurl": "https://www.zomato.com/ludhiana/janak-puri-restaurants",
+        "lname": "Janak Puri",
+        "lid": "C19L16"
+      },
+      {
+        "lurl": "https://www.zomato.com/ludhiana/hargobind-nagar-restaurants",
+        "lname": "Hargobind Nagar",
+        "lid": "C19L17"
+      },
+      {
+        "lurl": "https://www.zomato.com/ludhiana/jawahar-nagar-restaurants",
+        "lname": "Jawahar Nagar",
+        "lid": "C19L18"
+      }
+    ],
+    "cityName": "Ludhiana",
+    "cityUrl": "https://www.zomato.com/ludhiana",
+    "cityId": "C19"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/guwahati/christian-basti-restaurants",
+        "lname": "Christian Basti",
+        "lid": "C20L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/guwahati/ulubari-restaurants",
+        "lname": "Ulubari",
+        "lid": "C20L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/guwahati/zoo-tiniali-restaurants",
+        "lname": "Zoo Tiniali",
+        "lid": "C20L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/guwahati/uzan-bazaar-restaurants",
+        "lname": "Uzan Bazaar",
+        "lid": "C20L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/guwahati/six-mile-restaurants",
+        "lname": "Six Mile",
+        "lid": "C20L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/guwahati/bhangagarh-restaurants",
+        "lname": "Bhangagarh",
+        "lid": "C20L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/guwahati/khanapara-restaurants",
+        "lname": "Khanapara",
+        "lid": "C20L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/guwahati/chandmari-restaurants",
+        "lname": "Chandmari",
+        "lid": "C20L8"
+      },
+      {
+        "lurl": "https://www.zomato.com/guwahati/beltola-restaurants",
+        "lname": "Beltola",
+        "lid": "C20L9"
+      },
+      {
+        "lurl": "https://www.zomato.com/guwahati/ganeshguri-restaurants",
+        "lname": "Ganeshguri",
+        "lid": "C20L10"
+      },
+      {
+        "lurl": "https://www.zomato.com/guwahati/silpukhuri-restaurants",
+        "lname": "Silpukhuri",
+        "lid": "C20L11"
+      },
+      {
+        "lurl": "https://www.zomato.com/guwahati/paltan-bazaar-restaurants",
+        "lname": "Paltan Bazaar",
+        "lid": "C20L12"
+      },
+      {
+        "lurl": "https://www.zomato.com/guwahati/dispur-restaurants",
+        "lname": "Dispur",
+        "lid": "C20L13"
+      },
+      {
+        "lurl": "https://www.zomato.com/guwahati/fancy-bazaar-restaurants",
+        "lname": "Fancy Bazaar",
+        "lid": "C20L14"
+      },
+      {
+        "lurl": "https://www.zomato.com/guwahati/maligaon-restaurants",
+        "lname": "Maligaon",
+        "lid": "C20L15"
+      },
+      {
+        "lurl": "https://www.zomato.com/guwahati/pan-bazaar-restaurants",
+        "lname": "Pan Bazaar",
+        "lid": "C20L16"
+      },
+      {
+        "lurl": "https://www.zomato.com/guwahati/bharalumukh-restaurants",
+        "lname": "Bharalumukh",
+        "lid": "C20L17"
+      },
+      {
+        "lurl": "https://www.zomato.com/guwahati/amingaon-restaurants",
+        "lname": "Amingaon",
+        "lid": "C20L18"
+      },
+      {
+        "lurl": "https://www.zomato.com/guwahati/hatigaon-restaurants",
+        "lname": "Hatigaon",
+        "lid": "C20L19"
+      },
+      {
+        "lurl": "https://www.zomato.com/guwahati/kala-pahar-restaurants",
+        "lname": "Kala Pahar",
+        "lid": "C20L20"
+      },
+      {
+        "lurl": "https://www.zomato.com/guwahati/narengi-tinali-restaurants",
+        "lname": "Narengi Tinali",
+        "lid": "C20L21"
+      },
+      {
+        "lurl": "https://www.zomato.com/guwahati/jalukbari-restaurants",
+        "lname": "Jalukbari",
+        "lid": "C20L22"
+      },
+      {
+        "lurl": "https://www.zomato.com/guwahati/kahilipara-restaurants",
+        "lname": "Kahilipara",
+        "lid": "C20L23"
+      }
+    ],
+    "cityName": "Guwahati",
+    "cityUrl": "https://www.zomato.com/guwahati",
+    "cityId": "C20"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/amritsar/ranjit-avenue-restaurants",
+        "lname": "Ranjit Avenue",
+        "lid": "C21L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/amritsar/town-hall-restaurants",
+        "lname": "Town Hall",
+        "lid": "C21L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/amritsar/white-avenue-restaurants",
+        "lname": "White Avenue",
+        "lid": "C21L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/amritsar/basant-nagar-restaurants",
+        "lname": "Basant Nagar",
+        "lid": "C21L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/amritsar/lawrence-road-restaurants",
+        "lname": "Lawrence Road",
+        "lid": "C21L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/amritsar/ina-colony-restaurants",
+        "lname": "INA Colony",
+        "lid": "C21L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/amritsar/gt-road-restaurants",
+        "lname": "GT Road",
+        "lid": "C21L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/amritsar/kabir-park-restaurants",
+        "lname": "Kabir Park",
+        "lid": "C21L8"
+      },
+      {
+        "lurl": "https://www.zomato.com/amritsar/mall-road-restaurants",
+        "lname": "Mall Road",
+        "lid": "C21L9"
+      },
+      {
+        "lurl": "https://www.zomato.com/amritsar/rani-ka-bagh-restaurants",
+        "lname": "Rani Ka Bagh",
+        "lid": "C21L10"
+      },
+      {
+        "lurl": "https://www.zomato.com/amritsar/ranjit-nagar-restaurants",
+        "lname": "Ranjit Nagar",
+        "lid": "C21L11"
+      },
+      {
+        "lurl": "https://www.zomato.com/amritsar/hathi-gate-restaurants",
+        "lname": "Hathi Gate",
+        "lid": "C21L12"
+      },
+      {
+        "lurl": "https://www.zomato.com/amritsar/shastri-nagar-restaurants",
+        "lname": "Shastri Nagar",
+        "lid": "C21L13"
+      },
+      {
+        "lurl": "https://www.zomato.com/amritsar/amritsar-cantonment-restaurants",
+        "lname": "Amritsar Cantonment",
+        "lid": "C21L14"
+      },
+      {
+        "lurl": "https://www.zomato.com/amritsar/gndu-area-restaurants",
+        "lname": "GNDU Area",
+        "lid": "C21L15"
+      },
+      {
+        "lurl": "https://www.zomato.com/amritsar/mohan-nagar-restaurants",
+        "lname": "Mohan Nagar",
+        "lid": "C21L16"
+      },
+      {
+        "lurl": "https://www.zomato.com/amritsar/maquboolpura-restaurants",
+        "lname": "Maquboolpura",
+        "lid": "C21L17"
+      }
+    ],
+    "cityName": "Amritsar",
+    "cityUrl": "https://www.zomato.com/amritsar",
+    "cityId": "C21"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/kanpur/mall-road-restaurants",
+        "lname": "Mall Road",
+        "lid": "C22L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/kanpur/swaroop-nagar-restaurants",
+        "lname": "Swaroop Nagar",
+        "lid": "C22L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/kanpur/tilak-nagar-restaurants",
+        "lname": "Tilak Nagar",
+        "lid": "C22L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/kanpur/lajpat-nagar-restaurants",
+        "lname": "Lajpat Nagar",
+        "lid": "C22L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/kanpur/ashok-nagar-restaurants",
+        "lname": "Ashok Nagar",
+        "lid": "C22L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/kanpur/parade-restaurants",
+        "lname": "Parade",
+        "lid": "C22L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/kanpur/arya-nagar-restaurants",
+        "lname": "Arya Nagar",
+        "lid": "C22L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/kanpur/kakadeo-restaurants",
+        "lname": "Kakadeo",
+        "lid": "C22L8"
+      },
+      {
+        "lurl": "https://www.zomato.com/kanpur/iit-kanpur-restaurants",
+        "lname": "IIT Kanpur",
+        "lid": "C22L9"
+      },
+      {
+        "lurl": "https://www.zomato.com/kanpur/tagore-road-restaurants",
+        "lname": "Tagore Road",
+        "lid": "C22L10"
+      },
+      {
+        "lurl": "https://www.zomato.com/kanpur/shastri-nagar-restaurants",
+        "lname": "Shastri Nagar",
+        "lid": "C22L11"
+      },
+      {
+        "lurl": "https://www.zomato.com/kanpur/kidwai-nagar-market-restaurants",
+        "lname": "Kidwai Nagar Market",
+        "lid": "C22L12"
+      },
+      {
+        "lurl": "https://www.zomato.com/kanpur/saket-nagar-restaurants",
+        "lname": "Saket Nagar",
+        "lid": "C22L13"
+      },
+      {
+        "lurl": "https://www.zomato.com/kanpur/fazalganj-restaurants",
+        "lname": "Fazalganj",
+        "lid": "C22L14"
+      },
+      {
+        "lurl": "https://www.zomato.com/kanpur/lal-bangla-restaurants",
+        "lname": "Lal Bangla",
+        "lid": "C22L15"
+      },
+      {
+        "lurl": "https://www.zomato.com/kanpur/gutaiya-restaurants",
+        "lname": "Gutaiya",
+        "lid": "C22L16"
+      },
+      {
+        "lurl": "https://www.zomato.com/kanpur/birhana-road-restaurants",
+        "lname": "Birhana Road",
+        "lid": "C22L17"
+      },
+      {
+        "lurl": "https://www.zomato.com/kanpur/kidwai-nagar-restaurants",
+        "lname": "Kidwai Nagar",
+        "lid": "C22L18"
+      },
+      {
+        "lurl": "https://www.zomato.com/kanpur/sharda-nagar-restaurants",
+        "lname": "Sharda Nagar",
+        "lid": "C22L19"
+      },
+      {
+        "lurl": "https://www.zomato.com/kanpur/panki-restaurants",
+        "lname": "Panki",
+        "lid": "C22L20"
+      },
+      {
+        "lurl": "https://www.zomato.com/kanpur/nandlal-chawraha-restaurants",
+        "lname": "Nandlal Chawraha",
+        "lid": "C22L21"
+      },
+      {
+        "lurl": "https://www.zomato.com/kanpur/geeta-nagar-restaurants",
+        "lname": "Geeta Nagar",
+        "lid": "C22L22"
+      },
+      {
+        "lurl": "https://www.zomato.com/kanpur/rawatpur-restaurants",
+        "lname": "Rawatpur",
+        "lid": "C22L23"
+      },
+      {
+        "lurl": "https://www.zomato.com/kanpur/nawab-ganj-restaurants",
+        "lname": "Nawab Ganj",
+        "lid": "C22L24"
+      },
+      {
+        "lurl": "https://www.zomato.com/kanpur/ratan-lal-nagar-restaurants",
+        "lname": "Ratan lal Nagar",
+        "lid": "C22L25"
+      },
+      {
+        "lurl": "https://www.zomato.com/kanpur/jajmau-restaurants",
+        "lname": "Jajmau",
+        "lid": "C22L26"
+      },
+      {
+        "lurl": "https://www.zomato.com/kanpur/ghantaghar-restaurants",
+        "lname": "Ghantaghar",
+        "lid": "C22L27"
+      },
+      {
+        "lurl": "https://www.zomato.com/kanpur/keshavpuram-restaurants",
+        "lname": "Keshavpuram",
+        "lid": "C22L28"
+      },
+      {
+        "lurl": "https://www.zomato.com/kanpur/indira-nagar-restaurants",
+        "lname": "Indira Nagar",
+        "lid": "C22L29"
+      },
+      {
+        "lurl": "https://www.zomato.com/kanpur/vijay-nagar-restaurants",
+        "lname": "Vijay Nagar",
+        "lid": "C22L30"
+      }
+    ],
+    "cityName": "Kanpur",
+    "cityUrl": "https://www.zomato.com/kanpur",
+    "cityId": "C22"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/allahabad/civil-lines-restaurants",
+        "lname": "Civil Lines",
+        "lid": "C23L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/allahabad/tagore-town-restaurants",
+        "lname": "Tagore Town",
+        "lid": "C23L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/allahabad/ashok-nagar-restaurants",
+        "lname": "Ashok Nagar",
+        "lid": "C23L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/allahabad/katra-restaurants",
+        "lname": "Katra",
+        "lid": "C23L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/allahabad/leader-road-restaurants",
+        "lname": "Leader Road",
+        "lid": "C23L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/allahabad/naini-restaurants",
+        "lname": "Naini",
+        "lid": "C23L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/allahabad/lukerganj-restaurants",
+        "lname": "Lukerganj",
+        "lid": "C23L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/allahabad/meergunj-restaurants",
+        "lname": "Meergunj",
+        "lid": "C23L8"
+      },
+      {
+        "lurl": "https://www.zomato.com/allahabad/bairahana-restaurants",
+        "lname": "Bairahana",
+        "lid": "C23L9"
+      },
+      {
+        "lurl": "https://www.zomato.com/allahabad/teliarganj-restaurants",
+        "lname": "Teliarganj",
+        "lid": "C23L10"
+      },
+      {
+        "lurl": "https://www.zomato.com/allahabad/rambagh-restaurants",
+        "lname": "Rambagh",
+        "lid": "C23L11"
+      },
+      {
+        "lurl": "https://www.zomato.com/allahabad/rajrooppur-restaurants",
+        "lname": "Rajrooppur",
+        "lid": "C23L12"
+      },
+      {
+        "lurl": "https://www.zomato.com/allahabad/dhoomanganj-restaurants",
+        "lname": "Dhoomanganj",
+        "lid": "C23L13"
+      },
+      {
+        "lurl": "https://www.zomato.com/allahabad/george-town-restaurants",
+        "lname": "George Town",
+        "lid": "C23L14"
+      },
+      {
+        "lurl": "https://www.zomato.com/allahabad/allapur-restaurants",
+        "lname": "Allapur",
+        "lid": "C23L15"
+      },
+      {
+        "lurl": "https://www.zomato.com/allahabad/chowk-restaurants",
+        "lname": "Chowk",
+        "lid": "C23L16"
+      }
+    ],
+    "cityName": "Allahabad",
+    "cityUrl": "https://www.zomato.com/allahabad",
+    "cityId": "C23"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/aurangabad/cidco-restaurants",
+        "lname": "CIDCO",
+        "lid": "C24L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/aurangabad/nirala-bazar-restaurants",
+        "lname": "Nirala Bazar",
+        "lid": "C24L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/aurangabad/chikalthana-restaurants",
+        "lname": "Chikalthana",
+        "lid": "C24L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/aurangabad/usmanpura-restaurants",
+        "lname": "Usmanpura",
+        "lid": "C24L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/aurangabad/akashwani-restaurants",
+        "lname": "Akashwani",
+        "lid": "C24L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/aurangabad/gadia-vihar-restaurants",
+        "lname": "Gadia Vihar",
+        "lid": "C24L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/aurangabad/midc-restaurants",
+        "lname": "MIDC",
+        "lid": "C24L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/aurangabad/shahgunj-restaurants",
+        "lname": "Shahgunj",
+        "lid": "C24L8"
+      },
+      {
+        "lurl": "https://www.zomato.com/aurangabad/ulkanagari-restaurants",
+        "lname": "Ulkanagari",
+        "lid": "C24L9"
+      },
+      {
+        "lurl": "https://www.zomato.com/aurangabad/mondha-restaurants",
+        "lname": "Mondha",
+        "lid": "C24L10"
+      },
+      {
+        "lurl": "https://www.zomato.com/aurangabad/nyay-nagar-restaurants",
+        "lname": "Nyay Nagar",
+        "lid": "C24L11"
+      },
+      {
+        "lurl": "https://www.zomato.com/aurangabad/sindhi-colony-restaurants",
+        "lname": "Sindhi Colony",
+        "lid": "C24L12"
+      },
+      {
+        "lurl": "https://www.zomato.com/aurangabad/gulmandi-restaurants",
+        "lname": "Gulmandi",
+        "lid": "C24L13"
+      },
+      {
+        "lurl": "https://www.zomato.com/aurangabad/waluj-restaurants",
+        "lname": "Waluj",
+        "lid": "C24L14"
+      },
+      {
+        "lurl": "https://www.zomato.com/aurangabad/harsul-restaurants",
+        "lname": "Harsul",
+        "lid": "C24L15"
+      }
+    ],
+    "cityName": "Aurangabad",
+    "cityUrl": "https://www.zomato.com/aurangabad",
+    "cityId": "C24"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/bhopal/maharana-pratap-nagar-restaurants",
+        "lname": "Maharana Pratap Nagar",
+        "lid": "C25L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/bhopal/tt-nagar-restaurants",
+        "lname": "TT Nagar",
+        "lid": "C25L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/bhopal/arera-colony-restaurants",
+        "lname": "Arera Colony",
+        "lid": "C25L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/bhopal/gulmohar-colony-restaurants",
+        "lname": "Gulmohar Colony",
+        "lid": "C25L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/bhopal/kohefiza-restaurants",
+        "lname": "Kohefiza",
+        "lid": "C25L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/bhopal/peer-gate-area-restaurants",
+        "lname": "Peer Gate Area",
+        "lid": "C25L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/bhopal/habib-ganj-restaurants",
+        "lname": "Habib Ganj",
+        "lid": "C25L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/bhopal/bhel-restaurants",
+        "lname": "BHEL",
+        "lid": "C25L8"
+      },
+      {
+        "lurl": "https://www.zomato.com/bhopal/airport-area-restaurants",
+        "lname": "Airport Area",
+        "lid": "C25L9"
+      },
+      {
+        "lurl": "https://www.zomato.com/bhopal/jp-nagar-restaurants",
+        "lname": "JP Nagar",
+        "lid": "C25L10"
+      },
+      {
+        "lurl": "https://www.zomato.com/bhopal/jhangirabad-restaurants",
+        "lname": "Jhangirabad",
+        "lid": "C25L11"
+      }
+    ],
+    "cityName": "Bhopal",
+    "cityUrl": "https://www.zomato.com/bhopal",
+    "cityId": "C25"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/ranchi/lalpur-restaurants",
+        "lname": "Lalpur",
+        "lid": "C26L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/ranchi/hindpiri-restaurants",
+        "lname": "Hindpiri",
+        "lid": "C26L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/ranchi/kanka-restaurants",
+        "lname": "Kanka",
+        "lid": "C26L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/ranchi/doranda-restaurants",
+        "lname": "Doranda",
+        "lid": "C26L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/ranchi/kadru-restaurants",
+        "lname": "Kadru",
+        "lid": "C26L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/ranchi/harmu-restaurants",
+        "lname": "Harmu",
+        "lid": "C26L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/ranchi/ratu-restaurants",
+        "lname": "Ratu",
+        "lid": "C26L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/ranchi/bariatu-restaurants",
+        "lname": "Bariatu",
+        "lid": "C26L8"
+      },
+      {
+        "lurl": "https://www.zomato.com/ranchi/kanke-restaurants",
+        "lname": "Kanke",
+        "lid": "C26L9"
+      },
+      {
+        "lurl": "https://www.zomato.com/ranchi/upper-bazar-restaurants",
+        "lname": "Upper Bazar",
+        "lid": "C26L10"
+      },
+      {
+        "lurl": "https://www.zomato.com/ranchi/ashok-nagar-restaurants",
+        "lname": "Ashok Nagar",
+        "lid": "C26L11"
+      },
+      {
+        "lurl": "https://www.zomato.com/ranchi/morabadi-restaurants",
+        "lname": "Morabadi",
+        "lid": "C26L12"
+      },
+      {
+        "lurl": "https://www.zomato.com/ranchi/hatia-restaurants",
+        "lname": "Hatia",
+        "lid": "C26L13"
+      },
+      {
+        "lurl": "https://www.zomato.com/ranchi/ahirtoli-restaurants",
+        "lname": "Ahirtoli",
+        "lid": "C26L14"
+      }
+    ],
+    "cityName": "Ranchi",
+    "cityUrl": "https://www.zomato.com/ranchi",
+    "cityId": "C26"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/visakhapatnam/siripuram-restaurants",
+        "lname": "Siripuram",
+        "lid": "C27L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/visakhapatnam/waltair-uplands-restaurants",
+        "lname": "Waltair Uplands",
+        "lid": "C27L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/visakhapatnam/kirlampudi-layout-restaurants",
+        "lname": "Kirlampudi Layout",
+        "lid": "C27L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/visakhapatnam/mvp-colony-restaurants",
+        "lname": "MVP Colony",
+        "lid": "C27L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/visakhapatnam/maharani-peta-restaurants",
+        "lname": "Maharani Peta",
+        "lid": "C27L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/visakhapatnam/jagadamba-junction-restaurants",
+        "lname": "Jagadamba Junction",
+        "lid": "C27L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/visakhapatnam/dwaraka-nagar-restaurants",
+        "lname": "Dwaraka Nagar",
+        "lid": "C27L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/visakhapatnam/gajuwaka-restaurants",
+        "lname": "Gajuwaka",
+        "lid": "C27L8"
+      },
+      {
+        "lurl": "https://www.zomato.com/visakhapatnam/lawsons-bay-restaurants",
+        "lname": "Lawsons Bay",
+        "lid": "C27L9"
+      },
+      {
+        "lurl": "https://www.zomato.com/visakhapatnam/maddilapalem-restaurants",
+        "lname": "Maddilapalem",
+        "lid": "C27L10"
+      },
+      {
+        "lurl": "https://www.zomato.com/visakhapatnam/asilmetta-restaurants",
+        "lname": "Asilmetta",
+        "lid": "C27L11"
+      },
+      {
+        "lurl": "https://www.zomato.com/visakhapatnam/seethammadhara-restaurants",
+        "lname": "Seethammadhara",
+        "lid": "C27L12"
+      },
+      {
+        "lurl": "https://www.zomato.com/visakhapatnam/rushikonda-restaurants",
+        "lname": "Rushikonda",
+        "lid": "C27L13"
+      },
+      {
+        "lurl": "https://www.zomato.com/visakhapatnam/marripalem-restaurants",
+        "lname": "Marripalem",
+        "lid": "C27L14"
+      },
+      {
+        "lurl": "https://www.zomato.com/visakhapatnam/sagar-nagar-restaurants",
+        "lname": "Sagar Nagar",
+        "lid": "C27L15"
+      },
+      {
+        "lurl": "https://www.zomato.com/visakhapatnam/allipuram-restaurants",
+        "lname": "Allipuram",
+        "lid": "C27L16"
+      },
+      {
+        "lurl": "https://www.zomato.com/visakhapatnam/madhurawada-restaurants",
+        "lname": "Madhurawada",
+        "lid": "C27L17"
+      },
+      {
+        "lurl": "https://www.zomato.com/visakhapatnam/ram-nagar-restaurants",
+        "lname": "Ram Nagar",
+        "lid": "C27L18"
+      },
+      {
+        "lurl": "https://www.zomato.com/visakhapatnam/balayya-sastri-layout-restaurants",
+        "lname": "Balayya Sastri Layout",
+        "lid": "C27L19"
+      },
+      {
+        "lurl": "https://www.zomato.com/visakhapatnam/nad-junction-restaurants",
+        "lname": "Nad Junction",
+        "lid": "C27L20"
+      },
+      {
+        "lurl": "https://www.zomato.com/visakhapatnam/kancharapalem-restaurants",
+        "lname": "Kancharapalem",
+        "lid": "C27L21"
+      },
+      {
+        "lurl": "https://www.zomato.com/visakhapatnam/madhavadhara-restaurants",
+        "lname": "Madhavadhara",
+        "lid": "C27L22"
+      },
+      {
+        "lurl": "https://www.zomato.com/visakhapatnam/akkayyapalem-restaurants",
+        "lname": "Akkayyapalem",
+        "lid": "C27L23"
+      },
+      {
+        "lurl": "https://www.zomato.com/visakhapatnam/thagarapuvalasa-restaurants",
+        "lname": "Thagarapuvalasa",
+        "lid": "C27L24"
+      },
+      {
+        "lurl": "https://www.zomato.com/visakhapatnam/bheemili-bheemunipatnam-restaurants",
+        "lname": "Bheemili Bheemunipatnam",
+        "lid": "C27L25"
+      },
+      {
+        "lurl": "https://www.zomato.com/visakhapatnam/sriharipuram-restaurants",
+        "lname": "Sriharipuram",
+        "lid": "C27L26"
+      },
+      {
+        "lurl": "https://www.zomato.com/visakhapatnam/simhachalam-restaurants",
+        "lname": "Simhachalam",
+        "lid": "C27L27"
+      },
+      {
+        "lurl": "https://www.zomato.com/visakhapatnam/pendurthi-restaurants",
+        "lname": "Pendurthi",
+        "lid": "C27L28"
+      },
+      {
+        "lurl": "https://www.zomato.com/visakhapatnam/dondaparithy-restaurants",
+        "lname": "Dondaparithy",
+        "lid": "C27L29"
+      },
+      {
+        "lurl": "https://www.zomato.com/visakhapatnam/duvvada-restaurants",
+        "lname": "Duvvada",
+        "lid": "C27L30"
+      }
+    ],
+    "cityName": "Visakhapatnam",
+    "cityUrl": "https://www.zomato.com/visakhapatnam",
+    "cityId": "C27"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/bhubaneswar/patia-restaurants",
+        "lname": "Patia",
+        "lid": "C28L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/bhubaneswar/chandrasekharpur-restaurants",
+        "lname": "Chandrasekharpur",
+        "lid": "C28L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/bhubaneswar/sahid-nagar-restaurants",
+        "lname": "Sahid Nagar",
+        "lid": "C28L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/bhubaneswar/jayadev-vihar-restaurants",
+        "lname": "Jayadev Vihar",
+        "lid": "C28L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/bhubaneswar/nayapalli-restaurants",
+        "lname": "Nayapalli",
+        "lid": "C28L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/bhubaneswar/kharabela-nagar-restaurants",
+        "lname": "Kharabela Nagar",
+        "lid": "C28L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/bhubaneswar/unit-4-restaurants",
+        "lname": "Unit 4",
+        "lid": "C28L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/bhubaneswar/lakshmi-sagar-restaurants",
+        "lname": "Lakshmi Sagar",
+        "lid": "C28L8"
+      },
+      {
+        "lurl": "https://www.zomato.com/bhubaneswar/gajapati-nagar-restaurants",
+        "lname": "Gajapati Nagar",
+        "lid": "C28L9"
+      },
+      {
+        "lurl": "https://www.zomato.com/bhubaneswar/ashok-nagar-restaurants",
+        "lname": "Ashok Nagar",
+        "lid": "C28L10"
+      },
+      {
+        "lurl": "https://www.zomato.com/bhubaneswar/khandagiri-restaurants",
+        "lname": "Khandagiri",
+        "lid": "C28L11"
+      },
+      {
+        "lurl": "https://www.zomato.com/bhubaneswar/jagmohan-nagar-restaurants",
+        "lname": "Jagmohan Nagar",
+        "lid": "C28L12"
+      },
+      {
+        "lurl": "https://www.zomato.com/bhubaneswar/satya-nagar-restaurants",
+        "lname": "Satya Nagar",
+        "lid": "C28L13"
+      },
+      {
+        "lurl": "https://www.zomato.com/bhubaneswar/bapuji-nagar-restaurants",
+        "lname": "Bapuji Nagar",
+        "lid": "C28L14"
+      },
+      {
+        "lurl": "https://www.zomato.com/bhubaneswar/bjb-nagar-restaurants",
+        "lname": "BJB Nagar",
+        "lid": "C28L15"
+      },
+      {
+        "lurl": "https://www.zomato.com/bhubaneswar/kalinga-nagar-restaurants",
+        "lname": "Kalinga Nagar",
+        "lid": "C28L16"
+      },
+      {
+        "lurl": "https://www.zomato.com/bhubaneswar/baramunda-restaurants",
+        "lname": "Baramunda",
+        "lid": "C28L17"
+      },
+      {
+        "lurl": "https://www.zomato.com/bhubaneswar/surya-nagar-restaurants",
+        "lname": "Surya Nagar",
+        "lid": "C28L18"
+      },
+      {
+        "lurl": "https://www.zomato.com/bhubaneswar/patrapada-restaurants",
+        "lname": "Patrapada",
+        "lid": "C28L19"
+      }
+    ],
+    "cityName": "Bhubaneswar",
+    "cityUrl": "https://www.zomato.com/bhubaneswar",
+    "cityId": "C28"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/coimbatore/rs-puram-restaurants",
+        "lname": "RS Puram",
+        "lid": "C29L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/coimbatore/peelamedu-restaurants",
+        "lname": "Peelamedu",
+        "lid": "C29L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/coimbatore/race-course-restaurants",
+        "lname": "Race Course",
+        "lid": "C29L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/coimbatore/saibaba-colony-restaurants",
+        "lname": "Saibaba Colony",
+        "lid": "C29L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/coimbatore/gandhipuram-restaurants",
+        "lname": "Gandhipuram",
+        "lid": "C29L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/coimbatore/town-hall-restaurants",
+        "lname": "Town Hall",
+        "lid": "C29L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/coimbatore/ramanathapuram-restaurants",
+        "lname": "Ramanathapuram",
+        "lid": "C29L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/coimbatore/kalapatti-restaurants",
+        "lname": "Kalapatti",
+        "lid": "C29L8"
+      },
+      {
+        "lurl": "https://www.zomato.com/coimbatore/ganapathy-restaurants",
+        "lname": "Ganapathy",
+        "lid": "C29L9"
+      },
+      {
+        "lurl": "https://www.zomato.com/coimbatore/thudiyalur-restaurants",
+        "lname": "Thudiyalur",
+        "lid": "C29L10"
+      },
+      {
+        "lurl": "https://www.zomato.com/coimbatore/lakshmi-mills-restaurants",
+        "lname": "Lakshmi Mills",
+        "lid": "C29L11"
+      },
+      {
+        "lurl": "https://www.zomato.com/coimbatore/vadavalli-restaurants",
+        "lname": "Vadavalli",
+        "lid": "C29L12"
+      },
+      {
+        "lurl": "https://www.zomato.com/coimbatore/nehru-stadium-restaurants",
+        "lname": "Nehru Stadium",
+        "lid": "C29L13"
+      },
+      {
+        "lurl": "https://www.zomato.com/coimbatore/singanallur-restaurants",
+        "lname": "Singanallur",
+        "lid": "C29L14"
+      },
+      {
+        "lurl": "https://www.zomato.com/coimbatore/chinniayam-palayam-restaurants",
+        "lname": "Chinniayam palayam",
+        "lid": "C29L15"
+      },
+      {
+        "lurl": "https://www.zomato.com/coimbatore/neelambur-restaurants",
+        "lname": "Neelambur",
+        "lid": "C29L16"
+      },
+      {
+        "lurl": "https://www.zomato.com/coimbatore/kavundampalayam-restaurants",
+        "lname": "Kavundampalayam",
+        "lid": "C29L17"
+      },
+      {
+        "lurl": "https://www.zomato.com/coimbatore/sitra-restaurants",
+        "lname": "Sitra",
+        "lid": "C29L18"
+      },
+      {
+        "lurl": "https://www.zomato.com/coimbatore/ukkadam-restaurants",
+        "lname": "Ukkadam",
+        "lid": "C29L19"
+      },
+      {
+        "lurl": "https://www.zomato.com/coimbatore/ondipudur-restaurants",
+        "lname": "Ondipudur",
+        "lid": "C29L20"
+      },
+      {
+        "lurl": "https://www.zomato.com/coimbatore/podanur-restaurants",
+        "lname": "Podanur",
+        "lid": "C29L21"
+      },
+      {
+        "lurl": "https://www.zomato.com/coimbatore/sivanadha-colony-restaurants",
+        "lname": "Sivanadha Colony",
+        "lid": "C29L22"
+      }
+    ],
+    "cityName": "Coimbatore",
+    "cityUrl": "https://www.zomato.com/coimbatore",
+    "cityId": "C29"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/mangalore/balmatta-restaurants",
+        "lname": "Balmatta",
+        "lid": "C30L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/mangalore/kankanady-restaurants",
+        "lname": "Kankanady",
+        "lid": "C30L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/mangalore/lalbagh-restaurants",
+        "lname": "Lalbagh",
+        "lid": "C30L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/mangalore/kodailbail-restaurants",
+        "lname": "Kodailbail",
+        "lid": "C30L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/mangalore/hampankatta-restaurants",
+        "lname": "Hampankatta",
+        "lid": "C30L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/mangalore/kadri-restaurants",
+        "lname": "Kadri",
+        "lid": "C30L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/mangalore/ks-rao-nagar-restaurants",
+        "lname": "KS Rao Nagar",
+        "lid": "C30L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/mangalore/attavar-restaurants",
+        "lname": "Attavar",
+        "lid": "C30L8"
+      },
+      {
+        "lurl": "https://www.zomato.com/mangalore/surathkal-restaurants",
+        "lname": "Surathkal",
+        "lid": "C30L9"
+      },
+      {
+        "lurl": "https://www.zomato.com/mangalore/bendoor-restaurants",
+        "lname": "Bendoor",
+        "lid": "C30L10"
+      },
+      {
+        "lurl": "https://www.zomato.com/mangalore/bunder-restaurants",
+        "lname": "Bunder",
+        "lid": "C30L11"
+      },
+      {
+        "lurl": "https://www.zomato.com/mangalore/kottara-restaurants",
+        "lname": "Kottara",
+        "lid": "C30L12"
+      },
+      {
+        "lurl": "https://www.zomato.com/mangalore/marnamikatte-restaurants",
+        "lname": "Marnamikatte",
+        "lid": "C30L13"
+      },
+      {
+        "lurl": "https://www.zomato.com/mangalore/kavoor-restaurants",
+        "lname": "Kavoor",
+        "lid": "C30L14"
+      },
+      {
+        "lurl": "https://www.zomato.com/mangalore/ashok-nagar-restaurants",
+        "lname": "Ashok Nagar",
+        "lid": "C30L15"
+      }
+    ],
+    "cityName": "Mangalore",
+    "cityUrl": "https://www.zomato.com/mangalore",
+    "cityId": "C30"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/vadodara/alkapuri-restaurants",
+        "lname": "Alkapuri",
+        "lid": "C31L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/vadodara/vadiwadi-restaurants",
+        "lname": "Vadiwadi",
+        "lid": "C31L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/vadodara/diwalipura-restaurants",
+        "lname": "Diwalipura",
+        "lid": "C31L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/vadodara/fatehgunj-restaurants",
+        "lname": "Fatehgunj",
+        "lid": "C31L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/vadodara/akota-restaurants",
+        "lname": "Akota",
+        "lid": "C31L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/vadodara/sayajigunj-restaurants",
+        "lname": "Sayajigunj",
+        "lid": "C31L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/vadodara/karelibaug-restaurants",
+        "lname": "Karelibaug",
+        "lid": "C31L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/vadodara/subhanpura-restaurants",
+        "lname": "Subhanpura",
+        "lid": "C31L8"
+      },
+      {
+        "lurl": "https://www.zomato.com/vadodara/manjalpur-restaurants",
+        "lname": "Manjalpur",
+        "lid": "C31L9"
+      },
+      {
+        "lurl": "https://www.zomato.com/vadodara/gotri-restaurants",
+        "lname": "Gotri",
+        "lid": "C31L10"
+      },
+      {
+        "lurl": "https://www.zomato.com/vadodara/nizampura-restaurants",
+        "lname": "Nizampura",
+        "lid": "C31L11"
+      },
+      {
+        "lurl": "https://www.zomato.com/vadodara/sayajipura-restaurants",
+        "lname": "Sayajipura",
+        "lid": "C31L12"
+      },
+      {
+        "lurl": "https://www.zomato.com/vadodara/gorwa-restaurants",
+        "lname": "Gorwa",
+        "lid": "C31L13"
+      },
+      {
+        "lurl": "https://www.zomato.com/vadodara/mandvi-restaurants",
+        "lname": "Mandvi",
+        "lid": "C31L14"
+      },
+      {
+        "lurl": "https://www.zomato.com/vadodara/makarpura-restaurants",
+        "lname": "Makarpura",
+        "lid": "C31L15"
+      },
+      {
+        "lurl": "https://www.zomato.com/vadodara/kendranagar-restaurants",
+        "lname": "Kendranagar",
+        "lid": "C31L16"
+      },
+      {
+        "lurl": "https://www.zomato.com/vadodara/suryanagar-restaurants",
+        "lname": "Suryanagar",
+        "lid": "C31L17"
+      },
+      {
+        "lurl": "https://www.zomato.com/vadodara/madhavpura-restaurants",
+        "lname": "Madhavpura",
+        "lid": "C31L18"
+      },
+      {
+        "lurl": "https://www.zomato.com/vadodara/tarsali-restaurants",
+        "lname": "Tarsali",
+        "lid": "C31L19"
+      }
+    ],
+    "cityName": "Vadodara",
+    "cityUrl": "https://www.zomato.com/vadodara",
+    "cityId": "C31"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/nagpur/dharampeth-restaurants",
+        "lname": "Dharampeth",
+        "lid": "C32L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/nagpur/sadar-restaurants",
+        "lname": "Sadar",
+        "lid": "C32L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/nagpur/civil-lines-restaurants",
+        "lname": "Civil Lines",
+        "lid": "C32L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/nagpur/sitabuldi-restaurants",
+        "lname": "Sitabuldi",
+        "lid": "C32L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/nagpur/bajaj-nagar-restaurants",
+        "lname": "Bajaj Nagar",
+        "lid": "C32L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/nagpur/pratap-nagar-restaurants",
+        "lname": "Pratap Nagar",
+        "lid": "C32L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/nagpur/ramdaspeth-restaurants",
+        "lname": "Ramdaspeth",
+        "lid": "C32L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/nagpur/dhantoli-restaurants",
+        "lname": "Dhantoli",
+        "lid": "C32L8"
+      },
+      {
+        "lurl": "https://www.zomato.com/nagpur/wardha-road-restaurants",
+        "lname": "Wardha Road",
+        "lid": "C32L9"
+      },
+      {
+        "lurl": "https://www.zomato.com/",
+        "lname": "Vayusena nagar",
+        "lid": "C32L10"
+      },
+      {
+        "lurl": "https://www.zomato.com/nagpur/vivekanand-nagar-restaurants",
+        "lname": "Vivekanand Nagar",
+        "lid": "C32L11"
+      },
+      {
+        "lurl": "https://www.zomato.com/nagpur/gandhibagh-restaurants",
+        "lname": "Gandhibagh",
+        "lid": "C32L12"
+      },
+      {
+        "lurl": "https://www.zomato.com/nagpur/hingna-t-point-restaurants",
+        "lname": "Hingna T Point",
+        "lid": "C32L13"
+      },
+      {
+        "lurl": "https://www.zomato.com/nagpur/gokulpeth-restaurants",
+        "lname": "Gokulpeth",
+        "lid": "C32L14"
+      },
+      {
+        "lurl": "https://www.zomato.com/nagpur/wardhaman-nagar-restaurants",
+        "lname": "Wardhaman Nagar",
+        "lid": "C32L15"
+      },
+      {
+        "lurl": "https://www.zomato.com/nagpur/mohan-nagar-restaurants",
+        "lname": "Mohan Nagar",
+        "lid": "C32L16"
+      },
+      {
+        "lurl": "https://www.zomato.com/nagpur/gayatri-nagar-restaurants",
+        "lname": "Gayatri Nagar",
+        "lid": "C32L17"
+      },
+      {
+        "lurl": "https://www.zomato.com/nagpur/nandanvan-restaurants",
+        "lname": "Nandanvan",
+        "lid": "C32L18"
+      },
+      {
+        "lurl": "https://www.zomato.com/nagpur/manish-nagar-restaurants",
+        "lname": "Manish Nagar",
+        "lid": "C32L19"
+      },
+      {
+        "lurl": "https://www.zomato.com/nagpur/vayusena-nagar-restaurants",
+        "lname": "Ayodhya Nagar",
+        "lid": "C32L20"
+      },
+      {
+        "lurl": "https://www.zomato.com/nagpur/ravi-nagar-restaurants",
+        "lname": "Ravi Nagar",
+        "lid": "C32L21"
+      },
+      {
+        "lurl": "https://www.zomato.com/nagpur/lakadganj-restaurants",
+        "lname": "Lakadganj",
+        "lid": "C32L22"
+      },
+      {
+        "lurl": "https://www.zomato.com/nagpur/pachpaoli-restaurants",
+        "lname": "Pachpaoli",
+        "lid": "C32L23"
+      },
+      {
+        "lurl": "https://www.zomato.com/nagpur/mominpura-restaurants",
+        "lname": "Mominpura",
+        "lid": "C32L24"
+      },
+      {
+        "lurl": "https://www.zomato.com/nagpur/ayodhya-nagar-restaurants",
+        "lname": "Jaripatka",
+        "lid": "C32L25"
+      },
+      {
+        "lurl": "https://www.zomato.com/nagpur/mankapur-restaurants",
+        "lname": "Mankapur",
+        "lid": "C32L26"
+      },
+      {
+        "lurl": "https://www.zomato.com/nagpur/seminary-hills-restaurants",
+        "lname": "Seminary Hills",
+        "lid": "C32L27"
+      },
+      {
+        "lurl": "https://www.zomato.com/nagpur/gittikhadan-restaurants",
+        "lname": "Gittikhadan",
+        "lid": "C32L28"
+      }
+    ],
+    "cityName": "Nagpur",
+    "cityUrl": "https://www.zomato.com/nagpur",
+    "cityId": "C32"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/agra/tajganj-restaurants",
+        "lname": "Tajganj",
+        "lid": "C33L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/agra/civil-lines-restaurants",
+        "lname": "Civil Lines",
+        "lid": "C33L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/agra/agra-cantt-restaurants",
+        "lname": "Agra Cantt",
+        "lid": "C33L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/agra/sikandra-restaurants",
+        "lname": "Sikandra",
+        "lid": "C33L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/agra/mantola-restaurants",
+        "lname": "Mantola",
+        "lid": "C33L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/agra/khandari-restaurants",
+        "lname": "Khandari",
+        "lid": "C33L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/agra/kamla-nagar-restaurants",
+        "lname": "Kamla Nagar",
+        "lid": "C33L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/agra/rakabganj-restaurants",
+        "lname": "Rakabganj",
+        "lid": "C33L8"
+      },
+      {
+        "lurl": "https://www.zomato.com/agra/dayal-bagh-restaurants",
+        "lname": "Dayal Bagh",
+        "lid": "C33L9"
+      },
+      {
+        "lurl": "https://www.zomato.com/agra/shahganj-restaurants",
+        "lname": "Shahganj",
+        "lid": "C33L10"
+      },
+      {
+        "lurl": "https://www.zomato.com/agra/lohamandi-restaurants",
+        "lname": "Lohamandi",
+        "lid": "C33L11"
+      },
+      {
+        "lurl": "https://www.zomato.com/agra/arjun-nagar-restaurants",
+        "lname": "Arjun Nagar",
+        "lid": "C33L12"
+      }
+    ],
+    "cityName": "Agra",
+    "cityUrl": "https://www.zomato.com/agra",
+    "cityId": "C33"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/dehradun/rajpur-restaurants",
+        "lname": "Rajpur",
+        "lid": "C34L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/dehradun/jakhan-restaurants",
+        "lname": "Jakhan",
+        "lid": "C34L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/dehradun/hathibarkala-salwala-restaurants",
+        "lname": "Hathibarkala Salwala",
+        "lid": "C34L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/dehradun/chukkuwala-restaurants",
+        "lname": "Chukkuwala",
+        "lid": "C34L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/dehradun/karanpur-restaurants",
+        "lname": "Karanpur",
+        "lid": "C34L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/dehradun/ballupur-restaurants",
+        "lname": "Ballupur",
+        "lid": "C34L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/dehradun/paltan-bazaar-restaurants",
+        "lname": "Paltan Bazaar",
+        "lid": "C34L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/dehradun/balliwala-restaurants",
+        "lname": "Balliwala",
+        "lid": "C34L8"
+      },
+      {
+        "lurl": "https://www.zomato.com/dehradun/chironwali-restaurants",
+        "lname": "Chironwali",
+        "lid": "C34L9"
+      },
+      {
+        "lurl": "https://www.zomato.com/dehradun/dharampur-restaurants",
+        "lname": "Dharampur",
+        "lid": "C34L10"
+      },
+      {
+        "lurl": "https://www.zomato.com/dehradun/krishna-nagar-restaurants",
+        "lname": "Krishna Nagar",
+        "lid": "C34L11"
+      },
+      {
+        "lurl": "https://www.zomato.com/dehradun/majra-restaurants",
+        "lname": "Majra",
+        "lid": "C34L12"
+      },
+      {
+        "lurl": "https://www.zomato.com/dehradun/race-course-restaurants",
+        "lname": "Race Course",
+        "lid": "C34L13"
+      },
+      {
+        "lurl": "https://www.zomato.com/dehradun/malsi-restaurants",
+        "lname": "Malsi",
+        "lid": "C34L14"
+      },
+      {
+        "lurl": "https://www.zomato.com/dehradun/prem-nagar-restaurants",
+        "lname": "Prem Nagar",
+        "lid": "C34L15"
+      },
+      {
+        "lurl": "https://www.zomato.com/dehradun/subhash-nagar-restaurants",
+        "lname": "Subhash Nagar",
+        "lid": "C34L16"
+      },
+      {
+        "lurl": "https://www.zomato.com/dehradun/kaonli-restaurants",
+        "lname": "Kaonli",
+        "lid": "C34L17"
+      },
+      {
+        "lurl": "https://www.zomato.com/dehradun/morowala-restaurants",
+        "lname": "Morowala",
+        "lid": "C34L18"
+      },
+      {
+        "lurl": "https://www.zomato.com/dehradun/raipur-restaurants",
+        "lname": "Raipur",
+        "lid": "C34L19"
+      },
+      {
+        "lurl": "https://www.zomato.com/dehradun/garhi-cantt-restaurants",
+        "lname": "Garhi Cantt",
+        "lid": "C34L20"
+      },
+      {
+        "lurl": "https://www.zomato.com/dehradun/khurbura-restaurants",
+        "lname": "Khurbura",
+        "lid": "C34L21"
+      }
+    ],
+    "cityName": "Dehradun",
+    "cityUrl": "https://www.zomato.com/dehradun",
+    "cityId": "C34"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/mysore/gokulam-restaurants",
+        "lname": "Gokulam",
+        "lid": "C35L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/mysore/vijay-nagar-restaurants",
+        "lname": "Vijay Nagar",
+        "lid": "C35L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/mysore/jayalakhsmipuram-restaurants",
+        "lname": "Jayalakhsmipuram",
+        "lid": "C35L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/mysore/chamrajpura-restaurants",
+        "lname": "Chamrajpura",
+        "lid": "C35L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/mysore/doora-restaurants",
+        "lname": "Doora",
+        "lid": "C35L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/mysore/kuvempunagar-restaurants",
+        "lname": "Kuvempunagar",
+        "lid": "C35L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/mysore/mandi-mohalla-restaurants",
+        "lname": "Mandi Mohalla",
+        "lid": "C35L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/mysore/bannimantap-restaurants",
+        "lname": "Bannimantap",
+        "lid": "C35L8"
+      },
+      {
+        "lurl": "https://www.zomato.com/mysore/yadavgiri-restaurants",
+        "lname": "Yadavgiri",
+        "lid": "C35L9"
+      },
+      {
+        "lurl": "https://www.zomato.com/mysore/ittige-gudu-restaurants",
+        "lname": "Ittige Gudu",
+        "lid": "C35L10"
+      },
+      {
+        "lurl": "https://www.zomato.com/mysore/bogadi-restaurants",
+        "lname": "Bogadi",
+        "lid": "C35L11"
+      },
+      {
+        "lurl": "https://www.zomato.com/mysore/vidyaranyapura-restaurants",
+        "lname": "Vidyaranyapura",
+        "lid": "C35L12"
+      }
+    ],
+    "cityName": "Mysore",
+    "cityUrl": "https://www.zomato.com/mysore",
+    "cityId": "C35"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/puducherry/white-town-restaurants",
+        "lname": "White Town",
+        "lid": "C36L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/puducherry/mg-road-restaurants",
+        "lname": "MG Road",
+        "lid": "C36L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/puducherry/heritage-town-restaurants",
+        "lname": "Heritage Town",
+        "lid": "C36L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/puducherry/auroville-restaurants",
+        "lname": "Auroville",
+        "lid": "C36L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/puducherry/gandhinagar-restaurants",
+        "lname": "Gandhinagar",
+        "lid": "C36L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/puducherry/lawspet-restaurants",
+        "lname": "Lawspet",
+        "lid": "C36L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/puducherry/kottukuppam-restaurants",
+        "lname": "Kottukuppam",
+        "lid": "C36L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/puducherry/mudaliarpet-restaurants",
+        "lname": "Mudaliarpet",
+        "lid": "C36L8"
+      },
+      {
+        "lurl": "https://www.zomato.com/puducherry/villianur-restaurants",
+        "lname": "Villianur",
+        "lid": "C36L9"
+      },
+      {
+        "lurl": "https://www.zomato.com/puducherry/muthial-pet-restaurants",
+        "lname": "Muthial Pet",
+        "lid": "C36L10"
+      }
+    ],
+    "cityName": "Puducherry",
+    "cityUrl": "https://www.zomato.com/puducherry",
+    "cityId": "C36"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/surat/vesu-restaurants",
+        "lname": "Vesu",
+        "lid": "C37L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/surat/piplod-restaurants",
+        "lname": "Piplod",
+        "lid": "C37L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/surat/adajan-gam-restaurants",
+        "lname": "Adajan Gam",
+        "lid": "C37L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/surat/city-light-restaurants",
+        "lname": "City Light",
+        "lid": "C37L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/surat/athwa-restaurants",
+        "lname": "Athwa",
+        "lid": "C37L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/surat/nanpura-restaurants",
+        "lname": "Nanpura",
+        "lid": "C37L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/surat/dumas-restaurants",
+        "lname": "Dumas",
+        "lid": "C37L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/surat/katargam-restaurants",
+        "lname": "Katargam",
+        "lid": "C37L8"
+      },
+      {
+        "lurl": "https://www.zomato.com/surat/udhna-gam-restaurants",
+        "lname": "Udhna Gam",
+        "lid": "C37L9"
+      },
+      {
+        "lurl": "https://www.zomato.com/surat/magdalla-restaurants",
+        "lname": "Magdalla",
+        "lid": "C37L10"
+      },
+      {
+        "lurl": "https://www.zomato.com/surat/pal-gam-restaurants",
+        "lname": "Pal Gam",
+        "lid": "C37L11"
+      },
+      {
+        "lurl": "https://www.zomato.com/surat/nana-varacha-restaurants",
+        "lname": "Nana Varacha",
+        "lid": "C37L12"
+      },
+      {
+        "lurl": "https://www.zomato.com/surat/adajan-patiya-restaurants",
+        "lname": "Adajan Patiya",
+        "lid": "C37L13"
+      },
+      {
+        "lurl": "https://www.zomato.com/surat/umarwada-restaurants",
+        "lname": "Umarwada",
+        "lid": "C37L14"
+      },
+      {
+        "lurl": "https://www.zomato.com/surat/palanpore-restaurants",
+        "lname": "Palanpore",
+        "lid": "C37L15"
+      },
+      {
+        "lurl": "https://www.zomato.com/surat/haripura-restaurants",
+        "lname": "Haripura",
+        "lid": "C37L16"
+      },
+      {
+        "lurl": "https://www.zomato.com/surat/katodara-restaurants",
+        "lname": "Katodara",
+        "lid": "C37L17"
+      },
+      {
+        "lurl": "https://www.zomato.com/surat/rander-restaurants",
+        "lname": "Rander",
+        "lid": "C37L18"
+      },
+      {
+        "lurl": "https://www.zomato.com/surat/althan-bhatar-restaurants",
+        "lname": "Althan Bhatar",
+        "lid": "C37L19"
+      },
+      {
+        "lurl": "https://www.zomato.com/surat/gopipura-restaurants",
+        "lname": "Gopipura",
+        "lid": "C37L20"
+      },
+      {
+        "lurl": "https://www.zomato.com/surat/utran-restaurants",
+        "lname": "Utran",
+        "lid": "C37L21"
+      },
+      {
+        "lurl": "https://www.zomato.com/surat/magob-restaurants",
+        "lname": "Magob",
+        "lid": "C37L22"
+      },
+      {
+        "lurl": "https://www.zomato.com/surat/mota-varachha-restaurants",
+        "lname": "Mota Varachha",
+        "lid": "C37L23"
+      },
+      {
+        "lurl": "https://www.zomato.com/surat/chowk-bazaar-restaurants",
+        "lname": "Chowk Bazaar",
+        "lid": "C37L24"
+      },
+      {
+        "lurl": "https://www.zomato.com/surat/salabatpura-restaurants",
+        "lname": "Salabatpura",
+        "lid": "C37L25"
+      }
+    ],
+    "cityName": "Surat",
+    "cityUrl": "https://www.zomato.com/surat",
+    "cityId": "C37"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/varanasi/sigra-restaurants",
+        "lname": "Sigra",
+        "lid": "C38L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/varanasi/lanka-restaurants",
+        "lname": "Lanka",
+        "lid": "C38L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/varanasi/nadesar-restaurants",
+        "lname": "Nadesar",
+        "lid": "C38L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/varanasi/bhelupur-restaurants",
+        "lname": "Bhelupur",
+        "lid": "C38L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/varanasi/dashaswmedh-road-restaurants",
+        "lname": "Dashaswmedh Road",
+        "lid": "C38L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/varanasi/mahmoorganj-restaurants",
+        "lname": "Mahmoorganj",
+        "lid": "C38L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/varanasi/assi-ghat-restaurants",
+        "lname": "Assi Ghat",
+        "lid": "C38L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/varanasi/chetganj-restaurants",
+        "lname": "Chetganj",
+        "lid": "C38L8"
+      },
+      {
+        "lurl": "https://www.zomato.com/varanasi/godaulia-restaurants",
+        "lname": "Godaulia",
+        "lid": "C38L9"
+      },
+      {
+        "lurl": "https://www.zomato.com/varanasi/sunderpur-restaurants",
+        "lname": "Sunderpur",
+        "lid": "C38L10"
+      },
+      {
+        "lurl": "https://www.zomato.com/varanasi/sarnath-restaurants",
+        "lname": "Sarnath",
+        "lid": "C38L11"
+      },
+      {
+        "lurl": "https://www.zomato.com/varanasi/jaitpura-restaurants",
+        "lname": "Jaitpura",
+        "lid": "C38L12"
+      }
+    ],
+    "cityName": "Varanasi",
+    "cityUrl": "https://www.zomato.com/varanasi",
+    "cityId": "C38"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/patna/fraser-road-area-restaurants",
+        "lname": "Fraser Road Area",
+        "lid": "C39L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/patna/golambar-restaurants",
+        "lname": "Golambar",
+        "lid": "C39L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/patna/sri-krishnapuri-restaurants",
+        "lname": "Sri Krishnapuri",
+        "lid": "C39L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/patna/kankarbagh-restaurants",
+        "lname": "Kankarbagh",
+        "lid": "C39L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/patna/patliputra-colony-restaurants",
+        "lname": "Patliputra Colony",
+        "lid": "C39L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/patna/lodipur-restaurants",
+        "lname": "Lodipur",
+        "lid": "C39L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/patna/khajpura-restaurants",
+        "lname": "Khajpura",
+        "lid": "C39L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/patna/kidwaipuri-restaurants",
+        "lname": "Kidwaipuri",
+        "lid": "C39L8"
+      },
+      {
+        "lurl": "https://www.zomato.com/patna/kurji-restaurants",
+        "lname": "Kurji",
+        "lid": "C39L9"
+      },
+      {
+        "lurl": "https://www.zomato.com/patna/anandpuri-restaurants",
+        "lname": "Anandpuri",
+        "lid": "C39L10"
+      },
+      {
+        "lurl": "https://www.zomato.com/patna/anisabad-restaurants",
+        "lname": "Anisabad",
+        "lid": "C39L11"
+      },
+      {
+        "lurl": "https://www.zomato.com/patna/rukanpura-restaurants",
+        "lname": "Rukanpura",
+        "lid": "C39L12"
+      },
+      {
+        "lurl": "https://www.zomato.com/patna/phulwari-sharif-restaurants",
+        "lname": "Phulwari Sharif",
+        "lid": "C39L13"
+      },
+      {
+        "lurl": "https://www.zomato.com/patna/digha-ghat-restaurants",
+        "lname": "Digha Ghat",
+        "lid": "C39L14"
+      },
+      {
+        "lurl": "https://www.zomato.com/patna/sadikpur-restaurants",
+        "lname": "Sadikpur",
+        "lid": "C39L15"
+      }
+    ],
+    "cityName": "Patna",
+    "cityUrl": "https://www.zomato.com/patna",
+    "cityId": "C39"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/udaipur/pichola-restaurants",
+        "lname": "Pichola",
+        "lid": "C40L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/udaipur/fateh-sagar-restaurants",
+        "lname": "Fateh Sagar",
+        "lid": "C40L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/udaipur/city-centre-restaurants",
+        "lname": "City Centre",
+        "lid": "C40L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/udaipur/panchwati-restaurants",
+        "lname": "Panchwati",
+        "lid": "C40L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/udaipur/chandpole-restaurants",
+        "lname": "Chandpole",
+        "lid": "C40L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/udaipur/bhuwana-restaurants",
+        "lname": "Bhuwana",
+        "lid": "C40L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/udaipur/shobhagpura-restaurants",
+        "lname": "Shobhagpura",
+        "lid": "C40L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/udaipur/ashok-nagar-restaurants",
+        "lname": "Ashok Nagar",
+        "lid": "C40L8"
+      },
+      {
+        "lurl": "https://www.zomato.com/udaipur/hiran-magri-restaurants",
+        "lname": "Hiran Magri",
+        "lid": "C40L9"
+      },
+      {
+        "lurl": "https://www.zomato.com/udaipur/bhopalpura-restaurants",
+        "lname": "Bhopalpura",
+        "lid": "C40L10"
+      },
+      {
+        "lurl": "https://www.zomato.com/udaipur/pratap-nagar-restaurants",
+        "lname": "Pratap Nagar",
+        "lid": "C40L11"
+      },
+      {
+        "lurl": "https://www.zomato.com/udaipur/subhash-nagar-restaurants",
+        "lname": "Subhash Nagar",
+        "lid": "C40L12"
+      },
+      {
+        "lurl": "https://www.zomato.com/udaipur/shakti-nagar-restaurants",
+        "lname": "Shakti Nagar",
+        "lid": "C40L13"
+      },
+      {
+        "lurl": "https://www.zomato.com/udaipur/fatehpura-restaurants",
+        "lname": "Fatehpura",
+        "lid": "C40L14"
+      },
+      {
+        "lurl": "https://www.zomato.com/udaipur/pahada-restaurants",
+        "lname": "Pahada",
+        "lid": "C40L15"
+      },
+      {
+        "lurl": "https://www.zomato.com/udaipur/ganesh-nagar-restaurants",
+        "lname": "Ganesh Nagar",
+        "lid": "C40L16"
+      },
+      {
+        "lurl": "https://www.zomato.com/udaipur/sukher-restaurants",
+        "lname": "Sukher",
+        "lid": "C40L17"
+      }
+    ],
+    "cityName": "Udaipur",
+    "cityUrl": "https://www.zomato.com/udaipur",
+    "cityId": "C40"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/srinagar/srinagar-restaurants",
+        "lname": "Srinagar",
+        "lid": "C41L1"
+      }
+    ],
+    "cityName": "Srinagar",
+    "cityUrl": "https://www.zomato.com/srinagar",
+    "cityId": "C41"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/neemrana/neemrana-restaurants",
+        "lname": "Neemrana",
+        "lid": "C42L1"
+      }
+    ],
+    "cityName": "Neemrana",
+    "cityUrl": "https://www.zomato.com/neemrana",
+    "cityId": "C42"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/cuttack/siba-bazaar-restaurants",
+        "lname": "Siba Bazaar",
+        "lid": "C43L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/cuttack/cda-sector-6-restaurants",
+        "lname": "CDA Sector 6",
+        "lid": "C43L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/cuttack/buxi-bazaar-restaurants",
+        "lname": "Buxi Bazaar",
+        "lid": "C43L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/cuttack/naya-bazaar-restaurants",
+        "lname": "Naya Bazaar",
+        "lid": "C43L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/cuttack/mal-godown-market-restaurants",
+        "lname": "Mal Godown Market",
+        "lid": "C43L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/cuttack/sutahat-restaurants",
+        "lname": "Sutahat",
+        "lid": "C43L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/cuttack/police-colony-restaurants",
+        "lname": "Police Colony",
+        "lid": "C43L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/cuttack/bidanasi-restaurants",
+        "lname": "Bidanasi",
+        "lid": "C43L8"
+      },
+      {
+        "lurl": "https://www.zomato.com/cuttack/kalyani-nagar-restaurants",
+        "lname": "Kalyani Nagar",
+        "lid": "C43L9"
+      }
+    ],
+    "cityName": "Cuttack",
+    "cityUrl": "https://www.zomato.com/cuttack",
+    "cityId": "C43"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/trivandrum/palayam-restaurants",
+        "lname": "Palayam",
+        "lid": "C44L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/trivandrum/ambalamukku-restaurants",
+        "lname": "Ambalamukku",
+        "lid": "C44L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/trivandrum/kovalam-restaurants",
+        "lname": "Kovalam",
+        "lid": "C44L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/trivandrum/kesavadasapuram-restaurants",
+        "lname": "Kesavadasapuram",
+        "lid": "C44L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/trivandrum/kulathoor-restaurants",
+        "lname": "Kulathoor",
+        "lid": "C44L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/trivandrum/ulloor-restaurants",
+        "lname": "Ulloor",
+        "lid": "C44L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/trivandrum/kannanthura-restaurants",
+        "lname": "Kannanthura",
+        "lid": "C44L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/trivandrum/sasthamangalam-restaurants",
+        "lname": "Sasthamangalam",
+        "lid": "C44L8"
+      },
+      {
+        "lurl": "https://www.zomato.com/trivandrum/thycaud-restaurants",
+        "lname": "Thycaud",
+        "lid": "C44L9"
+      },
+      {
+        "lurl": "https://www.zomato.com/trivandrum/vazhuthacaud-restaurants",
+        "lname": "Vazhuthacaud",
+        "lid": "C44L10"
+      },
+      {
+        "lurl": "https://www.zomato.com/trivandrum/sreekariyam-restaurants",
+        "lname": "Sreekariyam",
+        "lid": "C44L11"
+      },
+      {
+        "lurl": "https://www.zomato.com/trivandrum/kumarapuram-restaurants",
+        "lname": "Kumarapuram",
+        "lid": "C44L12"
+      },
+      {
+        "lurl": "https://www.zomato.com/trivandrum/thumba-restaurants",
+        "lname": "Thumba",
+        "lid": "C44L13"
+      },
+      {
+        "lurl": "https://www.zomato.com/trivandrum/peroorkada-restaurants",
+        "lname": "Peroorkada",
+        "lid": "C44L14"
+      },
+      {
+        "lurl": "https://www.zomato.com/trivandrum/poonthura-restaurants",
+        "lname": "Poonthura",
+        "lid": "C44L15"
+      },
+      {
+        "lurl": "https://www.zomato.com/trivandrum/beemapally-restaurants",
+        "lname": "Beemapally",
+        "lid": "C44L16"
+      },
+      {
+        "lurl": "https://www.zomato.com/trivandrum/pappanamcode-restaurants",
+        "lname": "Pappanamcode",
+        "lid": "C44L17"
+      },
+      {
+        "lurl": "https://www.zomato.com/trivandrum/poojapura-restaurants",
+        "lname": "Poojapura",
+        "lid": "C44L18"
+      },
+      {
+        "lurl": "https://www.zomato.com/trivandrum/mannanthala-restaurants",
+        "lname": "Mannanthala",
+        "lid": "C44L19"
+      }
+    ],
+    "cityName": "Trivandrum",
+    "cityUrl": "https://www.zomato.com/trivandrum",
+    "cityId": "C44"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/haridwar/har-ki-pauri-restaurants",
+        "lname": "Har Ki Pauri",
+        "lid": "C45L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/haridwar/devpura-restaurants",
+        "lname": "Devpura",
+        "lid": "C45L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/haridwar/bhel-township-restaurants",
+        "lname": "BHEL Township",
+        "lid": "C45L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/haridwar/ranipur-restaurants",
+        "lname": "Ranipur",
+        "lid": "C45L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/haridwar/jwalapur-restaurants",
+        "lname": "Jwalapur",
+        "lid": "C45L5"
+      }
+    ],
+    "cityName": "Haridwar",
+    "cityUrl": "https://www.zomato.com/haridwar",
+    "cityId": "C45"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/pushkar/choti-basti-restaurants",
+        "lname": "Choti Basti",
+        "lid": "C46L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/pushkar/badi-basti-restaurants",
+        "lname": "Badi Basti",
+        "lid": "C46L2"
+      }
+    ],
+    "cityName": "Pushkar",
+    "cityUrl": "https://www.zomato.com/pushkar",
+    "cityId": "C46"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/rajkot/kotecha-nagar-restaurants",
+        "lname": "Kotecha Nagar",
+        "lid": "C47L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/rajkot/arya-nagar-restaurants",
+        "lname": "Arya Nagar",
+        "lid": "C47L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/rajkot/race-course-restaurants",
+        "lname": "Race Course",
+        "lid": "C47L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/rajkot/bhakti-nagar-restaurants",
+        "lname": "Bhakti Nagar",
+        "lid": "C47L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/rajkot/150-feet-ring-road-restaurants",
+        "lname": "150 Feet Ring Road",
+        "lid": "C47L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/rajkot/junction-plot-restaurants",
+        "lname": "Junction Plot",
+        "lid": "C47L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/rajkot/dr-yagnik-road-restaurants",
+        "lname": "Dr Yagnik Road",
+        "lid": "C47L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/rajkot/sardar-nagar-restaurants",
+        "lname": "Sardar Nagar",
+        "lid": "C47L8"
+      },
+      {
+        "lurl": "https://www.zomato.com/rajkot/nana-mava-restaurants",
+        "lname": "Nana Mava",
+        "lid": "C47L9"
+      },
+      {
+        "lurl": "https://www.zomato.com/rajkot/mavdi-restaurants",
+        "lname": "Mavdi",
+        "lid": "C47L10"
+      },
+      {
+        "lurl": "https://www.zomato.com/rajkot/soni-bazaar-restaurants",
+        "lname": "Soni Bazaar",
+        "lid": "C47L11"
+      }
+    ],
+    "cityName": "Rajkot",
+    "cityUrl": "https://www.zomato.com/rajkot",
+    "cityId": "C47"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/madurai/kk-nagar-restaurants",
+        "lname": "KK Nagar",
+        "lid": "C48L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/madurai/periyar-restaurants",
+        "lname": "Periyar",
+        "lid": "C48L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/madurai/sathamangalam-restaurants",
+        "lname": "Sathamangalam",
+        "lid": "C48L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/madurai/southern-railway-colony-restaurants",
+        "lname": "Southern Railway Colony",
+        "lid": "C48L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/madurai/ss-colony-restaurants",
+        "lname": "SS Colony",
+        "lid": "C48L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/madurai/arrapalayam-restaurants",
+        "lname": "Arrapalayam",
+        "lid": "C48L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/madurai/viswanathapuram-restaurants",
+        "lname": "Viswanathapuram",
+        "lid": "C48L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/madurai/iyer-bungalow-restaurants",
+        "lname": "Iyer Bungalow",
+        "lid": "C48L8"
+      },
+      {
+        "lurl": "https://www.zomato.com/madurai/vandiyur-restaurants",
+        "lname": "Vandiyur",
+        "lid": "C48L9"
+      },
+      {
+        "lurl": "https://www.zomato.com/madurai/pasumalai-restaurants",
+        "lname": "Pasumalai",
+        "lid": "C48L10"
+      },
+      {
+        "lurl": "https://www.zomato.com/madurai/villapuram-restaurants",
+        "lname": "Villapuram",
+        "lid": "C48L11"
+      },
+      {
+        "lurl": "https://www.zomato.com/madurai/bethaniyapuram-restaurants",
+        "lname": "Bethaniyapuram",
+        "lid": "C48L12"
+      },
+      {
+        "lurl": "https://www.zomato.com/madurai/doak-nagar-restaurants",
+        "lname": "Doak Nagar",
+        "lid": "C48L13"
+      },
+      {
+        "lurl": "https://www.zomato.com/madurai/kamrajnagar-restaurants",
+        "lname": "Kamrajnagar",
+        "lid": "C48L14"
+      },
+      {
+        "lurl": "https://www.zomato.com/madurai/balarengapuram-restaurants",
+        "lname": "Balarengapuram",
+        "lid": "C48L15"
+      },
+      {
+        "lurl": "https://www.zomato.com/madurai/pandian-nagar-restaurants",
+        "lname": "Pandian Nagar",
+        "lid": "C48L16"
+      }
+    ],
+    "cityName": "Madurai",
+    "cityUrl": "https://www.zomato.com/madurai",
+    "cityId": "C48"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/alappuzha/anantha-narayanapuram-restaurants",
+        "lname": "Anantha Narayanapuram",
+        "lid": "C49L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/alappuzha/thathampally-restaurants",
+        "lname": "Thathampally",
+        "lid": "C49L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/alappuzha/thalavady-restaurants",
+        "lname": "Thalavady",
+        "lid": "C49L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/alappuzha/pathirappally-restaurants",
+        "lname": "Pathirappally",
+        "lid": "C49L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/alappuzha/kommady-restaurants",
+        "lname": "Kommady",
+        "lid": "C49L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/alappuzha/punnapra-restaurants",
+        "lname": "Punnapra",
+        "lid": "C49L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/alappuzha/pazhaveedu-restaurants",
+        "lname": "Pazhaveedu",
+        "lid": "C49L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/alappuzha/koyippalli-restaurants",
+        "lname": "Koyippalli",
+        "lid": "C49L8"
+      },
+      {
+        "lurl": "https://www.zomato.com/alappuzha/kanjiramchira-restaurants",
+        "lname": "Kanjiramchira",
+        "lid": "C49L9"
+      }
+    ],
+    "cityName": "Alappuzha",
+    "cityUrl": "https://www.zomato.com/alappuzha",
+    "cityId": "C49"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/thrissur/poothole-restaurants",
+        "lname": "Poothole",
+        "lid": "C50L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/thrissur/puzhakkal-restaurants",
+        "lname": "Puzhakkal",
+        "lid": "C50L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/thrissur/kizhakkumpattukara-restaurants",
+        "lname": "Kizhakkumpattukara",
+        "lid": "C50L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/thrissur/ollur-restaurants",
+        "lname": "Ollur",
+        "lid": "C50L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/thrissur/kuriachira-restaurants",
+        "lname": "Kuriachira",
+        "lid": "C50L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/thrissur/koorkencherry-restaurants",
+        "lname": "Koorkencherry",
+        "lid": "C50L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/thrissur/ayyanthole-restaurants",
+        "lname": "Ayyanthole",
+        "lid": "C50L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/thrissur/cherpu-restaurants",
+        "lname": "Cherpu",
+        "lid": "C50L8"
+      },
+      {
+        "lurl": "https://www.zomato.com/thrissur/vallachira-restaurants",
+        "lname": "Vallachira",
+        "lid": "C50L9"
+      },
+      {
+        "lurl": "https://www.zomato.com/thrissur/mannuthy-restaurants",
+        "lname": "Mannuthy",
+        "lid": "C50L10"
+      },
+      {
+        "lurl": "https://www.zomato.com/thrissur/thiroor-restaurants",
+        "lname": "Thiroor",
+        "lid": "C50L11"
+      }
+    ],
+    "cityName": "Thrissur",
+    "cityUrl": "https://www.zomato.com/thrissur",
+    "cityId": "C50"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/manipal/vidyaratna-nagar-restaurants",
+        "lname": "Vidyaratna Nagar",
+        "lid": "C51L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/manipal/eshwar-nagar-restaurants",
+        "lname": "Eshwar Nagar",
+        "lid": "C51L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/manipal/shivalli-restaurants",
+        "lname": "Shivalli",
+        "lid": "C51L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/manipal/dasharath-nagar-restaurants",
+        "lname": "Dasharath Nagar",
+        "lid": "C51L4"
+      }
+    ],
+    "cityName": "Manipal",
+    "cityUrl": "https://www.zomato.com/manipal",
+    "cityId": "C51"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/vijayawada/labbipet-restaurants",
+        "lname": "Labbipet",
+        "lid": "C52L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/vijayawada/governorpet-restaurants",
+        "lname": "Governorpet",
+        "lid": "C52L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/vijayawada/auto-nagar-restaurants",
+        "lname": "Auto Nagar",
+        "lid": "C52L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/vijayawada/gandhi-nagar-restaurants",
+        "lname": "Gandhi Nagar",
+        "lid": "C52L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/vijayawada/islampet-restaurants",
+        "lname": "Islampet",
+        "lid": "C52L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/vijayawada/gunadala-restaurants",
+        "lname": "Gunadala",
+        "lid": "C52L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/vijayawada/gollapudi-restaurants",
+        "lname": "Gollapudi",
+        "lid": "C52L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/vijayawada/krishna-lanka-restaurants",
+        "lname": "Krishna Lanka",
+        "lid": "C52L8"
+      },
+      {
+        "lurl": "https://www.zomato.com/vijayawada/payakapuram-restaurants",
+        "lname": "Payakapuram",
+        "lid": "C52L9"
+      },
+      {
+        "lurl": "https://www.zomato.com/vijayawada/pnt-colony-restaurants",
+        "lname": "PNT Colony",
+        "lid": "C52L10"
+      },
+      {
+        "lurl": "https://www.zomato.com/vijayawada/poranki-restaurants",
+        "lname": "Poranki",
+        "lid": "C52L11"
+      },
+      {
+        "lurl": "https://www.zomato.com/vijayawada/shri-ramachandra-nagar-restaurants",
+        "lname": "Shri Ramachandra Nagar",
+        "lid": "C52L12"
+      },
+      {
+        "lurl": "https://www.zomato.com/vijayawada/madhura-nagar-restaurants",
+        "lname": "Madhura Nagar",
+        "lid": "C52L13"
+      },
+      {
+        "lurl": "https://www.zomato.com/vijayawada/ramavarappadu-restaurants",
+        "lname": "Ramavarappadu",
+        "lid": "C52L14"
+      },
+      {
+        "lurl": "https://www.zomato.com/vijayawada/christurajupuram-restaurants",
+        "lname": "Christurajupuram",
+        "lid": "C52L15"
+      },
+      {
+        "lurl": "https://www.zomato.com/vijayawada/enikepadu-restaurants",
+        "lname": "Enikepadu",
+        "lid": "C52L16"
+      }
+    ],
+    "cityName": "Vijayawada",
+    "cityUrl": "https://www.zomato.com/vijayawada",
+    "cityId": "C52"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/jodhpur/bhagat-ki-kothi-restaurants",
+        "lname": "Bhagat Ki Kothi",
+        "lid": "C53L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/jodhpur/kabir-nagar-restaurants",
+        "lname": "Kabir Nagar",
+        "lid": "C53L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/jodhpur/air-force-area-restaurants",
+        "lname": "Air Force Area",
+        "lid": "C53L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/jodhpur/cantt-area-restaurants",
+        "lname": "Cantt Area",
+        "lid": "C53L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/jodhpur/paota-restaurants",
+        "lname": "Paota",
+        "lid": "C53L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/jodhpur/basni-restaurants",
+        "lname": "Basni",
+        "lid": "C53L6"
+      }
+    ],
+    "cityName": "Jodhpur",
+    "cityUrl": "https://www.zomato.com/jodhpur",
+    "cityId": "C53"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/kota/rangbari-restaurants",
+        "lname": "Rangbari",
+        "lid": "C54L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/kota/chawani-restaurants",
+        "lname": "Chawani",
+        "lid": "C54L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/kota/talwandi-restaurants",
+        "lname": "Talwandi",
+        "lid": "C54L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/kota/indraprastha-industrial-area-restaurants",
+        "lname": "Indraprastha Industrial Area",
+        "lid": "C54L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/kota/ladpura-restaurants",
+        "lname": "Ladpura",
+        "lid": "C54L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/kota/dhanmandi-restaurants",
+        "lname": "Dhanmandi",
+        "lid": "C54L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/kota/rps-colony-restaurants",
+        "lname": "RPS Colony",
+        "lid": "C54L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/kota/dadabari-restaurants",
+        "lname": "Dadabari",
+        "lid": "C54L8"
+      }
+    ],
+    "cityName": "Kota",
+    "cityUrl": "https://www.zomato.com/kota",
+    "cityId": "C54"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/ajmer/ana-sagar-lake-restaurants",
+        "lname": "Ana Sagar Lake",
+        "lid": "C55L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/ajmer/boraj-kazipura-restaurants",
+        "lname": "Boraj Kazipura",
+        "lid": "C55L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/ajmer/railway-quarters-restaurants",
+        "lname": "Railway Quarters ",
+        "lid": "C55L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/ajmer/adarsh-nagar-restaurants",
+        "lname": "Adarsh Nagar",
+        "lid": "C55L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/ajmer/dhola-bhata-colony-restaurants",
+        "lname": "Dhola Bhata Colony",
+        "lid": "C55L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/ajmer/kotra-restaurants",
+        "lname": "Kotra",
+        "lid": "C55L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/ajmer/panchsheel-nagar-restaurants",
+        "lname": "Panchsheel Nagar",
+        "lid": "C55L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/ajmer/hathi-khera-restaurants",
+        "lname": "Hathi Khera",
+        "lid": "C55L8"
+      },
+      {
+        "lurl": "https://www.zomato.com/ajmer/pal-bhichala-restaurants",
+        "lname": "Pal Bhichala",
+        "lid": "C55L9"
+      }
+    ],
+    "cityName": "Ajmer",
+    "cityUrl": "https://www.zomato.com/ajmer",
+    "cityId": "C55"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/mussoorie/the-mall-road-restaurants",
+        "lname": "The Mall Road",
+        "lid": "C56L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/mussoorie/landour-restaurants",
+        "lname": "Landour",
+        "lid": "C56L2"
+      }
+    ],
+    "cityName": "Mussoorie",
+    "cityUrl": "https://www.zomato.com/mussoorie",
+    "cityId": "C56"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/rishikesh/tapovan-restaurants",
+        "lname": "Tapovan",
+        "lid": "C57L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/rishikesh/swarg-ashram-restaurants",
+        "lname": "Swarg Ashram",
+        "lid": "C57L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/rishikesh/manvendera-nagar-restaurants",
+        "lname": "Manvendera Nagar",
+        "lid": "C57L3"
+      }
+    ],
+    "cityName": "Rishikesh",
+    "cityUrl": "https://www.zomato.com/rishikesh",
+    "cityId": "C57"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/jalandhar/model-town-restaurants",
+        "lname": "Model Town",
+        "lid": "C58L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/jalandhar/jalandhar-cantt-restaurants",
+        "lname": "Jalandhar Cantt",
+        "lid": "C58L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/jalandhar/shastri-nagar-restaurants",
+        "lname": "Shastri Nagar",
+        "lid": "C58L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/jalandhar/rama-mandi-restaurants",
+        "lname": "Rama Mandi",
+        "lid": "C58L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/jalandhar/maqsudan-restaurants",
+        "lname": "Maqsudan",
+        "lid": "C58L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/jalandhar/urban-estate-restaurants",
+        "lname": "Urban Estate",
+        "lid": "C58L6"
+      }
+    ],
+    "cityName": "Jalandhar",
+    "cityUrl": "https://www.zomato.com/jalandhar",
+    "cityId": "C58"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/jammu/katra-restaurants",
+        "lname": "Katra",
+        "lid": "C59L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/jammu/trikuta-nagar-restaurants",
+        "lname": "Trikuta Nagar",
+        "lid": "C59L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/jammu/hari-market-restaurants",
+        "lname": "Hari Market",
+        "lid": "C59L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/jammu/nanak-nagar-restaurants",
+        "lname": "Nanak Nagar",
+        "lid": "C59L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/jammu/channi-himmat-restaurants",
+        "lname": "Channi Himmat",
+        "lid": "C59L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/jammu/resham-ghar-colony-restaurants",
+        "lname": "Resham Ghar Colony",
+        "lid": "C59L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/jammu/transport-nagar-restaurants",
+        "lname": "Transport Nagar",
+        "lid": "C59L7"
+      }
+    ],
+    "cityName": "Jammu",
+    "cityUrl": "https://www.zomato.com/jammu",
+    "cityId": "C59"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/manali/old-manali-restaurants",
+        "lname": "Old Manali",
+        "lid": "C60L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/manali/aleo-restaurants",
+        "lname": "Aleo",
+        "lid": "C60L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/manali/kullu-restaurants",
+        "lname": "Kullu",
+        "lid": "C60L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/manali/tibetan-colony-restaurants",
+        "lname": "Tibetan Colony",
+        "lid": "C60L4"
+      }
+    ],
+    "cityName": "Manali",
+    "cityUrl": "https://www.zomato.com/manali",
+    "cityId": "C60"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/dharamshala/mcleodganj-restaurants",
+        "lname": "Mcleodganj",
+        "lid": "C61L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/dharamshala/ram-nagar-restaurants",
+        "lname": "Ram Nagar",
+        "lid": "C61L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/dharamshala/chilgari-restaurants",
+        "lname": "Chilgari",
+        "lid": "C61L3"
+      }
+    ],
+    "cityName": "Dharamshala",
+    "cityUrl": "https://www.zomato.com/dharamshala",
+    "cityId": "C61"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/raipur/civil-lines-restaurants",
+        "lname": "Civil Lines",
+        "lid": "C62L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/raipur/moudhapara-restaurants",
+        "lname": "Moudhapara",
+        "lid": "C62L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/raipur/shankar-nagar-restaurants",
+        "lname": "Shankar Nagar",
+        "lid": "C62L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/raipur/mahaveer-nagar-restaurants",
+        "lname": "Mahaveer Nagar",
+        "lid": "C62L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/raipur/devendra-nagar-restaurants",
+        "lname": "Devendra Nagar",
+        "lid": "C62L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/raipur/samta-colony-restaurants",
+        "lname": "Samta Colony",
+        "lid": "C62L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/raipur/mowa-restaurants",
+        "lname": "Mowa",
+        "lid": "C62L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/raipur/tatibandh-restaurants",
+        "lname": "Tatibandh",
+        "lid": "C62L8"
+      },
+      {
+        "lurl": "https://www.zomato.com/raipur/jawahar-nagar-restaurants",
+        "lname": "Jawahar Nagar",
+        "lid": "C62L9"
+      },
+      {
+        "lurl": "https://www.zomato.com/raipur/govind-nagar-restaurants",
+        "lname": "Govind Nagar",
+        "lid": "C62L10"
+      },
+      {
+        "lurl": "https://www.zomato.com/raipur/amanaka-restaurants",
+        "lname": "Amanaka",
+        "lid": "C62L11"
+      },
+      {
+        "lurl": "https://www.zomato.com/raipur/kota-restaurants",
+        "lname": "Kota",
+        "lid": "C62L12"
+      },
+      {
+        "lurl": "https://www.zomato.com/raipur/bhanpuri-restaurants",
+        "lname": "Bhanpuri",
+        "lid": "C62L13"
+      },
+      {
+        "lurl": "https://www.zomato.com/raipur/changurabhata-restaurants",
+        "lname": "Changurabhata",
+        "lid": "C62L14"
+      },
+      {
+        "lurl": "https://www.zomato.com/raipur/tikrapara-restaurants",
+        "lname": "Tikrapara",
+        "lid": "C62L15"
+      },
+      {
+        "lurl": "https://www.zomato.com/raipur/lakhe-nagar-restaurants",
+        "lname": "Lakhe Nagar",
+        "lid": "C62L16"
+      }
+    ],
+    "cityName": "Raipur",
+    "cityUrl": "https://www.zomato.com/raipur",
+    "cityId": "C62"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/gorakhpur/golghar-restaurants",
+        "lname": "Golghar",
+        "lid": "C63L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/gorakhpur/shahpur-restaurants",
+        "lname": "Shahpur",
+        "lid": "C63L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/gorakhpur/kawwa-bagh-colony-restaurants",
+        "lname": "Kawwa Bagh Colony",
+        "lid": "C63L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/gorakhpur/azad-nagar-restaurants",
+        "lname": "Azad Nagar",
+        "lid": "C63L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/gorakhpur/betiahata-restaurants",
+        "lname": "Betiahata",
+        "lid": "C63L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/gorakhpur/kunraghat-restaurants",
+        "lname": "Kunraghat",
+        "lid": "C63L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/gorakhpur/ilahi-bagh-restaurants",
+        "lname": "Ilahi Bagh",
+        "lid": "C63L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/gorakhpur/hussain-nagar-restaurants",
+        "lname": "Hussain Nagar",
+        "lid": "C63L8"
+      },
+      {
+        "lurl": "https://www.zomato.com/gorakhpur/shakti-nagar-colony-restaurants",
+        "lname": "Shakti Nagar Colony",
+        "lid": "C63L9"
+      },
+      {
+        "lurl": "https://www.zomato.com/gorakhpur/basantpur-restaurants",
+        "lname": "Basantpur",
+        "lid": "C63L10"
+      },
+      {
+        "lurl": "https://www.zomato.com/gorakhpur/ramjanki-nagar-restaurants",
+        "lname": "Ramjanki Nagar",
+        "lid": "C63L11"
+      },
+      {
+        "lurl": "https://www.zomato.com/gorakhpur/miyan-baza-restaurants",
+        "lname": "Miyan Baza",
+        "lid": "C63L12"
+      },
+      {
+        "lurl": "https://www.zomato.com/gorakhpur/bade-kajipur-restaurants",
+        "lname": "Bade Kajipur",
+        "lid": "C63L13"
+      },
+      {
+        "lurl": "https://www.zomato.com/gorakhpur/mughala-restaurants",
+        "lname": "Mughala",
+        "lid": "C63L14"
+      },
+      {
+        "lurl": "https://www.zomato.com/gorakhpur/rapti-nagar-phase-4-restaurants",
+        "lname": "Rapti Nagar Phase 4",
+        "lid": "C63L15"
+      },
+      {
+        "lurl": "https://www.zomato.com/gorakhpur/jatepur-restaurants",
+        "lname": "Jatepur",
+        "lid": "C63L16"
+      },
+      {
+        "lurl": "https://www.zomato.com/gorakhpur/north-humayunpur-restaurants",
+        "lname": "North Humayunpur",
+        "lid": "C63L17"
+      },
+      {
+        "lurl": "https://www.zomato.com/gorakhpur/phase-3rd-restaurants",
+        "lname": "Phase 3rd",
+        "lid": "C63L18"
+      },
+      {
+        "lurl": "https://www.zomato.com/gorakhpur/bichhiya-restaurants",
+        "lname": "Bichhiya",
+        "lid": "C63L19"
+      },
+      {
+        "lurl": "https://www.zomato.com/gorakhpur/shatabdipuram-restaurants",
+        "lname": "Shatabdipuram",
+        "lid": "C63L20"
+      },
+      {
+        "lurl": "https://www.zomato.com/gorakhpur/dayanand-nagar-restaurants",
+        "lname": "Dayanand Nagar",
+        "lid": "C63L21"
+      }
+    ],
+    "cityName": "Gorakhpur",
+    "cityUrl": "https://www.zomato.com/gorakhpur",
+    "cityId": "C63"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/udupi/kinnimulki-restaurants",
+        "lname": "Kinnimulki",
+        "lid": "C64L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/udupi/kidiyoor-restaurants",
+        "lname": "Kidiyoor",
+        "lid": "C64L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/udupi/maruthi-veethika-restaurants",
+        "lname": "Maruthi Veethika",
+        "lid": "C64L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/udupi/kunjibettu-restaurants",
+        "lname": "Kunjibettu",
+        "lid": "C64L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/udupi/pandubettu-restaurants",
+        "lname": "Pandubettu",
+        "lid": "C64L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/udupi/brahmagiri-restaurants",
+        "lname": "Brahmagiri",
+        "lid": "C64L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/udupi/nittur-restaurants",
+        "lname": "Nittur",
+        "lid": "C64L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/udupi/udayavara-restaurants",
+        "lname": "Udayavara",
+        "lid": "C64L8"
+      }
+    ],
+    "cityName": "Udupi",
+    "cityUrl": "https://www.zomato.com/udupi",
+    "cityId": "C64"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/palakkad/vidyut-nagar-restaurants",
+        "lname": "Vidyut Nagar",
+        "lid": "C65L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/palakkad/puthuppariyaram-restaurants",
+        "lname": "Puthuppariyaram",
+        "lid": "C65L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/palakkad/melamuri-restaurants",
+        "lname": "Melamuri",
+        "lid": "C65L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/palakkad/tippusulthan-nagar-restaurants",
+        "lname": "Tippusulthan Nagar",
+        "lid": "C65L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/palakkad/vadakkanthara-restaurants",
+        "lname": "Vadakkanthara",
+        "lid": "C65L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/palakkad/kalmandapam-restaurants",
+        "lname": "Kalmandapam",
+        "lid": "C65L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/palakkad/chandranagar-colony-restaurants",
+        "lname": "Chandranagar Colony",
+        "lid": "C65L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/palakkad/koottupaatha-restaurants",
+        "lname": "Koottupaatha",
+        "lid": "C65L8"
+      }
+    ],
+    "cityName": "Palakkad",
+    "cityUrl": "https://www.zomato.com/palakkad",
+    "cityId": "C65"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/darjeeling/chauk-bazaar-restaurants",
+        "lname": "Chauk Bazaar",
+        "lid": "C66L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/darjeeling/lebong-restaurants",
+        "lname": "Lebong",
+        "lid": "C66L2"
+      }
+    ],
+    "cityName": "Darjeeling",
+    "cityUrl": "https://www.zomato.com/darjeeling",
+    "cityId": "C66"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/siliguri/pradhan-nagar-restaurants",
+        "lname": "Pradhan Nagar",
+        "lid": "C67L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/siliguri/bankim-nagar-restaurants",
+        "lname": "Bankim Nagar",
+        "lid": "C67L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/siliguri/khalpara-restaurants",
+        "lname": "Khalpara",
+        "lid": "C67L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/siliguri/janta-nagar-restaurants",
+        "lname": "Janta Nagar",
+        "lid": "C67L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/siliguri/patiram-jote-restaurants",
+        "lname": "Patiram Jote",
+        "lid": "C67L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/siliguri/nayapara-restaurants",
+        "lname": "Nayapara",
+        "lid": "C67L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/siliguri/ghogomali-restaurants",
+        "lname": "Ghogomali",
+        "lid": "C67L7"
+      }
+    ],
+    "cityName": "Siliguri",
+    "cityUrl": "https://www.zomato.com/siliguri",
+    "cityId": "C67"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/nainital/mall-road-restaurants",
+        "lname": "Mall Road",
+        "lid": "C68L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/nainital/tallital-restaurants",
+        "lname": "Tallital",
+        "lid": "C68L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/nainital/ayarpatta-restaurants",
+        "lname": "Ayarpatta",
+        "lid": "C68L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/nainital/sherwani-restaurants",
+        "lname": "Sherwani",
+        "lid": "C68L4"
+      }
+    ],
+    "cityName": "Nainital",
+    "cityUrl": "https://www.zomato.com/nainital",
+    "cityId": "C68"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/meerut/shastri-nagar-restaurants",
+        "lname": "Shastri Nagar",
+        "lid": "C69L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/meerut/meerut-cantt-restaurants",
+        "lname": "Meerut Cantt",
+        "lid": "C69L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/meerut/sadar-bazaar-restaurants",
+        "lname": "Sadar Bazaar",
+        "lid": "C69L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/meerut/mohkam-pur-restaurants",
+        "lname": "Mohkam Pur",
+        "lid": "C69L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/meerut/partapur-restaurants",
+        "lname": "Partapur",
+        "lid": "C69L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/meerut/mda-restaurants",
+        "lname": "MDA",
+        "lid": "C69L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/meerut/pallavpuram-restaurants",
+        "lname": "Pallavpuram",
+        "lid": "C69L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/meerut/mohan-puri-restaurants",
+        "lname": "Mohan Puri",
+        "lid": "C69L8"
+      },
+      {
+        "lurl": "https://www.zomato.com/meerut/ganga-nagar-restaurants",
+        "lname": "Ganga Nagar",
+        "lid": "C69L9"
+      },
+      {
+        "lurl": "https://www.zomato.com/meerut/devpuri-restaurants",
+        "lname": "Devpuri",
+        "lid": "C69L10"
+      }
+    ],
+    "cityName": "Meerut",
+    "cityUrl": "https://www.zomato.com/meerut",
+    "cityId": "C69"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/vellore/katpadi-restaurants",
+        "lname": "Katpadi",
+        "lid": "C70L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/vellore/thottapalayam-restaurants",
+        "lname": "Thottapalayam",
+        "lid": "C70L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/vellore/kosapet-restaurants",
+        "lname": "Kosapet",
+        "lid": "C70L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/vellore/gandhi-nagar-restaurants",
+        "lname": "Gandhi Nagar",
+        "lid": "C70L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/vellore/saidapet-restaurants",
+        "lname": "Saidapet",
+        "lid": "C70L5"
+      }
+    ],
+    "cityName": "Vellore",
+    "cityUrl": "https://www.zomato.com/vellore",
+    "cityId": "C70"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/salem/alagapuram-pudur-restaurants",
+        "lname": "Alagapuram Pudur",
+        "lid": "C71L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/salem/suramangalam-restaurants",
+        "lname": "Suramangalam",
+        "lid": "C71L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/salem/shevapet-restaurants",
+        "lname": "Shevapet",
+        "lid": "C71L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/salem/narasothipatti-restaurants",
+        "lname": "Narasothipatti",
+        "lid": "C71L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/salem/seelanaickenpatti-restaurants",
+        "lname": "Seelanaickenpatti",
+        "lid": "C71L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/salem/ammapet-restaurants",
+        "lname": "Ammapet",
+        "lid": "C71L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/salem/gorimedu-restaurants",
+        "lname": "Gorimedu",
+        "lid": "C71L7"
+      }
+    ],
+    "cityName": "Salem",
+    "cityUrl": "https://www.zomato.com/salem",
+    "cityId": "C71"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/trichy/sangillyandapuram-restaurants",
+        "lname": "Sangillyandapuram",
+        "lid": "C72L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/trichy/woraiyur-restaurants",
+        "lname": "Woraiyur",
+        "lid": "C72L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/trichy/thillai-nagar-restaurants",
+        "lname": "Thillai Nagar",
+        "lid": "C72L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/trichy/srirangam-restaurants",
+        "lname": "Srirangam",
+        "lid": "C72L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/trichy/kk-nagar-restaurants",
+        "lname": "KK Nagar",
+        "lid": "C72L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/trichy/tharanallur-restaurants",
+        "lname": "Tharanallur",
+        "lid": "C72L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/trichy/kattur-restaurants",
+        "lname": "Kattur",
+        "lid": "C72L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/trichy/karumandapam-restaurants",
+        "lname": "Karumandapam",
+        "lid": "C72L8"
+      },
+      {
+        "lurl": "https://www.zomato.com/trichy/kilapudur-restaurants",
+        "lname": "Kilapudur",
+        "lid": "C72L9"
+      }
+    ],
+    "cityName": "Trichy",
+    "cityUrl": "https://www.zomato.com/trichy",
+    "cityId": "C72"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/patiala/model-town-restaurants",
+        "lname": "Model Town",
+        "lid": "C73L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/patiala/urban-estate-restaurants",
+        "lname": "Urban Estate",
+        "lid": "C73L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/patiala/tripuri-restaurants",
+        "lname": "Tripuri",
+        "lid": "C73L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/patiala/adalat-bazaar-restaurants",
+        "lname": "Adalat Bazaar",
+        "lid": "C73L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/patiala/prem-nagar-restaurants",
+        "lname": "Prem Nagar",
+        "lid": "C73L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/patiala/lahori-gate-restaurants",
+        "lname": "Lahori Gate",
+        "lid": "C73L6"
+      }
+    ],
+    "cityName": "Patiala",
+    "cityUrl": "https://www.zomato.com/patiala",
+    "cityId": "C73"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/jabalpur/napier-town-restaurants",
+        "lname": "Napier Town",
+        "lid": "C74L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/jabalpur/cantt-restaurants",
+        "lname": "Cantt",
+        "lid": "C74L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/jabalpur/wright-town-restaurants",
+        "lname": "Wright Town",
+        "lid": "C74L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/jabalpur/rampur-restaurants",
+        "lname": "Rampur",
+        "lid": "C74L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/jabalpur/civil-lines-restaurants",
+        "lname": "Civil Lines",
+        "lid": "C74L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/jabalpur/shakti-nagar-restaurants",
+        "lname": "Shakti Nagar",
+        "lid": "C74L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/jabalpur/hathital-restaurants",
+        "lname": "Hathital",
+        "lid": "C74L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/jabalpur/dhanvantari-nagar-restaurants",
+        "lname": "Dhanvantari Nagar",
+        "lid": "C74L8"
+      },
+      {
+        "lurl": "https://www.zomato.com/jabalpur/garha-restaurants",
+        "lname": "Garha",
+        "lid": "C74L9"
+      }
+    ],
+    "cityName": "Jabalpur",
+    "cityUrl": "https://www.zomato.com/jabalpur",
+    "cityId": "C74"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/gwalior/mahalgaon-restaurants",
+        "lname": "Mahalgaon",
+        "lid": "C75L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/gwalior/lashkar-restaurants",
+        "lname": "Lashkar",
+        "lid": "C75L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/gwalior/thatipur-restaurants",
+        "lname": "Thatipur",
+        "lid": "C75L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/gwalior/naya-bazaar-restaurants",
+        "lname": "Naya Bazaar",
+        "lid": "C75L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/gwalior/ghosipura-restaurants",
+        "lname": "Ghosipura",
+        "lid": "C75L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/gwalior/birla-nagar-restaurants",
+        "lname": "Birla Nagar",
+        "lid": "C75L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/gwalior/prasad-nagar-restaurants",
+        "lname": "Prasad Nagar",
+        "lid": "C75L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/gwalior/shinde-ki-chhawani-restaurants",
+        "lname": "Shinde Ki Chhawani",
+        "lid": "C75L8"
+      }
+    ],
+    "cityName": "Gwalior",
+    "cityUrl": "https://www.zomato.com/gwalior",
+    "cityId": "C75"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/jamshedpur/bistupur-restaurants",
+        "lname": "Bistupur",
+        "lid": "C76L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/jamshedpur/sakchi-restaurants",
+        "lname": "Sakchi",
+        "lid": "C76L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/jamshedpur/gamharia-restaurants",
+        "lname": "Gamharia",
+        "lid": "C76L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/jamshedpur/sonari-restaurants",
+        "lname": "Sonari",
+        "lid": "C76L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/jamshedpur/golmuri-restaurants",
+        "lname": "Golmuri",
+        "lid": "C76L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/jamshedpur/mango-restaurants",
+        "lname": "Mango",
+        "lid": "C76L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/jamshedpur/telco-colony-restaurants",
+        "lname": "Telco Colony",
+        "lid": "C76L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/jamshedpur/birsanagar-restaurants",
+        "lname": "Birsanagar",
+        "lid": "C76L8"
+      },
+      {
+        "lurl": "https://www.zomato.com/jamshedpur/govindpur-restaurants",
+        "lname": "Govindpur",
+        "lid": "C76L9"
+      }
+    ],
+    "cityName": "Jamshedpur",
+    "cityUrl": "https://www.zomato.com/jamshedpur",
+    "cityId": "C76"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/guntur/brodipet-restaurants",
+        "lname": "Brodipet",
+        "lid": "C77L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/guntur/old-guntur-restaurants",
+        "lname": "Old Guntur",
+        "lid": "C77L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/guntur/srinivasa-nagar-colony-restaurants",
+        "lname": "Srinivasa Nagar Colony",
+        "lid": "C77L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/guntur/at-agraharam-restaurants",
+        "lname": "AT Agraharam",
+        "lid": "C77L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/guntur/agatha-varappadu-restaurants",
+        "lname": "Agatha Varappadu",
+        "lid": "C77L5"
+      },
+      {
+        "lurl": "https://www.zomato.com/guntur/srinivasarao-pet-restaurants",
+        "lname": "Srinivasarao Pet",
+        "lid": "C77L6"
+      },
+      {
+        "lurl": "https://www.zomato.com/guntur/gandhi-nagar-restaurants",
+        "lname": "Gandhi Nagar",
+        "lid": "C77L7"
+      },
+      {
+        "lurl": "https://www.zomato.com/guntur/gorantla-restaurants",
+        "lname": "Gorantla",
+        "lid": "C77L8"
+      }
+    ],
+    "cityName": "Guntur",
+    "cityUrl": "https://www.zomato.com/guntur",
+    "cityId": "C77"
+  },
+  {
+    "localities": [
+      {
+        "lurl": "https://www.zomato.com/jhansi/cantt-restaurants",
+        "lname": "Cantt",
+        "lid": "C78L1"
+      },
+      {
+        "lurl": "https://www.zomato.com/jhansi/civil-lines-restaurants",
+        "lname": "Civil Lines",
+        "lid": "C78L2"
+      },
+      {
+        "lurl": "https://www.zomato.com/jhansi/indrapuri-restaurants",
+        "lname": "Indrapuri",
+        "lid": "C78L3"
+      },
+      {
+        "lurl": "https://www.zomato.com/jhansi/sipri-bazaar-restaurants",
+        "lname": "Sipri Bazaar",
+        "lid": "C78L4"
+      },
+      {
+        "lurl": "https://www.zomato.com/jhansi/rajghat-colony-restaurants",
+        "lname": "Rajghat Colony",
+        "lid": "C78L5"
+      }
+    ],
+    "cityName": "Jhansi",
+    "cityUrl": "https://www.zomato.com/jhansi",
+    "cityId": "C78"
+  }
+]
